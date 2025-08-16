@@ -3915,3 +3915,463 @@ Sampler Limit: 32
 [2025.08.16-16.18.32:073][415]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 52908.332031
 [2025.08.16-16.18.33:075][418]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.16-16.18.33:075][418]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 52909.003906, Update Interval: 330.947601
+[2025.08.16-16.24.13:137][847]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.08.16-16.24.13:151][847]LogContentBrowser: Creating deferred item: NewFolder
+[2025.08.16-16.24.13:167][848]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.08.16-16.24.16:720][ 62]LogContentBrowser: Attempting asset rename: NewFolder -> Framework
+[2025.08.16-16.24.16:725][ 62]LogContentBrowser: End creating deferred item NewFolder
+[2025.08.16-16.24.26:267][188]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.16-16.24.26:302][188]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.16-16.24.26:314][188]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.16-16.24.26:346][190]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.16-16.24.32:995][582]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.08.16-16.24.33:035][582]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.16-16.24.42:830][932]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 53277.789062
+[2025.08.16-16.24.43:250][956]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-16.24.43:250][956]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 53278.167969, Update Interval: 314.615936
+[2025.08.16-16.24.44:321][ 21]LogContentBrowser: Attempting asset rename: NewBlueprint -> MyGamemode
+[2025.08.16-16.24.44:856][ 21]LogMetaData: Removing '/Game/Framework/MyGamemode.MyGamemode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Framework/NewBlueprint.PackageMetaData'
+[2025.08.16-16.24.44:857][ 21]LogMetaData: Removing '/Game/Framework/MyGamemode.SKEL_MyGamemode_C:UserConstructionScript' ref from Metadata '/Game/Framework/NewBlueprint.PackageMetaData'
+[2025.08.16-16.24.44:857][ 21]LogMetaData: Removing '/Game/Framework/MyGamemode.SKEL_MyGamemode_C' ref from Metadata '/Game/Framework/NewBlueprint.PackageMetaData'
+[2025.08.16-16.24.44:857][ 21]LogMetaData: Removing '/Game/Framework/MyGamemode.MyGamemode_C' ref from Metadata '/Game/Framework/NewBlueprint.PackageMetaData'
+[2025.08.16-16.24.44:857][ 21]LogMetaData: Removing '/Game/Framework/MyGamemode.MyGamemode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Framework/NewBlueprint.PackageMetaData'
+[2025.08.16-16.24.44:857][ 21]LogMetaData: Removing '/Game/Framework/MyGamemode.MyGamemode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Framework/NewBlueprint.PackageMetaData'
+[2025.08.16-16.24.44:872][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-16.24.44:872][ 21]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/MyGamemode] ([2] browsable assets)...
+[2025.08.16-16.24.44:872][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/MyGamemode]
+[2025.08.16-16.24.44:872][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/MyGamemode" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/MyGamemode.uasset" SILENT=true
+[2025.08.16-16.24.44:879][ 21]LogSavePackage: Moving output files for package: /Game/Framework/MyGamemode
+[2025.08.16-16.24.44:879][ 21]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/MyGamemodeED6A742F49C1A0D1141962A92BB88A41.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/MyGamemode.uasset'
+[2025.08.16-16.24.44:888][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.732 ms (total: 21.9 sec)
+[2025.08.16-16.24.44:952][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.08.16-16.24.44:990][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.08.16-16.24.45:022][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.08.16-16.24.45:138][ 21]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-16.24.45:138][ 21]LogContentValidation: Enabled validators:
+[2025.08.16-16.24.45:138][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-16.24.45:138][ 21]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-16.24.45:138][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-16.24.45:138][ 21]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-16.24.45:138][ 21]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-16.24.45:138][ 21]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-16.24.45:138][ 21]AssetCheck: /Game/Framework/MyGamemode Validating asset
+[2025.08.16-16.24.55:940][465]LogContentBrowser: Attempting asset rename: MyGamemode -> myGameMode
+[2025.08.16-16.24.56:156][465]LogMetaData: Removing '/Game/Framework/RenameTmp.RenameTmp_C' ref from Metadata '/Game/Framework/MyGamemode.PackageMetaData'
+[2025.08.16-16.24.56:156][465]LogMetaData: Removing '/Game/Framework/RenameTmp.SKEL_RenameTmp_C' ref from Metadata '/Game/Framework/MyGamemode.PackageMetaData'
+[2025.08.16-16.24.56:158][465]LogMetaData: Removing '/Game/Framework/RenameTmp.SKEL_RenameTmp_C:UserConstructionScript' ref from Metadata '/Game/Framework/MyGamemode.PackageMetaData'
+[2025.08.16-16.24.56:158][465]LogMetaData: Removing '/Game/Framework/RenameTmp.RenameTmp:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Framework/MyGamemode.PackageMetaData'
+[2025.08.16-16.24.56:158][465]LogMetaData: Removing '/Game/Framework/RenameTmp.RenameTmp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Framework/MyGamemode.PackageMetaData'
+[2025.08.16-16.24.56:158][465]LogMetaData: Removing '/Game/Framework/RenameTmp.RenameTmp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Framework/MyGamemode.PackageMetaData'
+[2025.08.16-16.24.56:222][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.08.16-16.24.56:254][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.08.16-16.24.56:287][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.08.16-16.24.56:290][465]LogMetaData: Removing '/Game/Framework/myGameMode.myGameMode_C' ref from Metadata '/Game/Framework/RenameTmp.PackageMetaData'
+[2025.08.16-16.24.56:290][465]LogMetaData: Removing '/Game/Framework/myGameMode.SKEL_myGameMode_C' ref from Metadata '/Game/Framework/RenameTmp.PackageMetaData'
+[2025.08.16-16.24.56:290][465]LogMetaData: Removing '/Game/Framework/myGameMode.SKEL_myGameMode_C:UserConstructionScript' ref from Metadata '/Game/Framework/RenameTmp.PackageMetaData'
+[2025.08.16-16.24.56:290][465]LogMetaData: Removing '/Game/Framework/myGameMode.myGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Framework/RenameTmp.PackageMetaData'
+[2025.08.16-16.24.56:290][465]LogMetaData: Removing '/Game/Framework/myGameMode.myGameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Framework/RenameTmp.PackageMetaData'
+[2025.08.16-16.24.56:290][465]LogMetaData: Removing '/Game/Framework/myGameMode.myGameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Framework/RenameTmp.PackageMetaData'
+[2025.08.16-16.24.56:347][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.08.16-16.24.56:380][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.08.16-16.24.56:406][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.08.16-16.25.14:962][662]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Framework/myGameMode.myGameMode
+[2025.08.16-16.25.14:962][662]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.08.16-16.25.34:149][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.08.16-16.25.35:027][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-16.25.35:162][714]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player_BP] ([2] browsable assets)...
+[2025.08.16-16.25.35:240][714]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player_BP.Player_BP]
+[2025.08.16-16.25.35:240][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player_BP]
+[2025.08.16-16.25.35:240][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2025.08.16-16.25.35:282][714]LogSavePackage: Moving output files for package: /Game/Blueprints/Player_BP
+[2025.08.16-16.25.35:283][714]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Player_BP3D0A13794F818672EE14C88C2DAB6549.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/Player_BP.uasset'
+[2025.08.16-16.25.35:316][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 289.652 ms (total: 22.2 sec)
+[2025.08.16-16.25.35:429][714]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-16.25.35:429][714]LogContentValidation: Enabled validators:
+[2025.08.16-16.25.35:429][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-16.25.35:429][714]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-16.25.35:429][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-16.25.35:429][714]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-16.25.35:429][714]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-16.25.35:429][714]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-16.25.35:429][714]AssetCheck: /Game/Blueprints/Player_BP Validating asset
+[2025.08.16-16.25.39:267][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-16.25.39:399][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myGameMode] ([2] browsable assets)...
+[2025.08.16-16.25.39:399][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myGameMode]
+[2025.08.16-16.25.39:399][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/myGameMode" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myGameMode.uasset" SILENT=true
+[2025.08.16-16.25.39:402][915]LogSavePackage: Moving output files for package: /Game/Framework/myGameMode
+[2025.08.16-16.25.39:402][915]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myGameModeECAE136F4716AAB7675524B5CF6B8246.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myGameMode.uasset'
+[2025.08.16-16.25.39:462][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.124 ms (total: 22.3 sec)
+[2025.08.16-16.25.39:567][915]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-16.25.39:567][915]LogContentValidation: Enabled validators:
+[2025.08.16-16.25.39:567][915]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-16.25.39:567][915]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-16.25.39:567][915]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-16.25.39:567][915]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-16.25.39:567][915]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-16.25.39:567][915]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-16.25.39:567][915]AssetCheck: /Game/Framework/myGameMode Validating asset
+[2025.08.16-16.26.02:170][126]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.16-16.26.02:210][126]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.16-16.26.02:222][126]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.16-16.26.02:239][127]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.16-16.26.05:625][331]LogContentBrowser: Attempting asset rename: NewBlueprint -> myHUD
+[2025.08.16-16.26.05:639][331]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.16-16.26.38:233][428]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.16-16.26.38:271][428]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.16-16.26.38:283][428]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.16-16.26.38:301][429]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.16-16.26.42:537][684]LogContentBrowser: Attempting asset rename: NewBlueprint -> myGameState
+[2025.08.16-16.26.42:550][684]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.16-16.26.51:961][778]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.16-16.26.51:999][778]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.16-16.26.52:010][778]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.16-16.26.52:026][779]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.16-16.26.56:996][ 78]LogContentBrowser: Attempting asset rename: NewBlueprint -> myPlayerController
+[2025.08.16-16.26.57:012][ 78]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.16-16.27.02:844][152]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.16-16.27.02:882][152]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.16-16.27.02:896][152]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.16-16.27.02:911][153]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.16-16.27.09:488][352]LogContentBrowser: Attempting asset rename: NewBlueprint -> myPlayerState
+[2025.08.16-16.27.09:499][352]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.16-16.27.38:370][461]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.16-16.28.49:380][439]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.16-16.28.49:675][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.08.16-16.28.49:685][440]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/NewMap' took 0.067
+[2025.08.16-16.28.49:686][440]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myHUD] ([2] browsable assets)...
+[2025.08.16-16.28.49:686][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myHUD]
+[2025.08.16-16.28.49:690][440]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Framework/myHUD_Auto5
+[2025.08.16-16.28.49:690][440]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myHUD_Auto56FD51F784914ECADAB1EE18768038112.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/Framework/myHUD_Auto5.uasset'
+[2025.08.16-16.28.49:693][440]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myGameState] ([2] browsable assets)...
+[2025.08.16-16.28.49:694][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myGameState]
+[2025.08.16-16.28.49:697][440]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Framework/myGameState_Auto5
+[2025.08.16-16.28.49:697][440]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myGameState_Auto5944779884A2763A91165DBA5B021D0A4.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/Framework/myGameState_Auto5.uasset'
+[2025.08.16-16.28.49:698][440]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myPlayerController] ([2] browsable assets)...
+[2025.08.16-16.28.49:698][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myPlayerController]
+[2025.08.16-16.28.49:704][440]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Framework/myPlayerController_Auto5
+[2025.08.16-16.28.49:704][440]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myPlayerController_Auto5A2F6EADB4009012AB3635884FE209636.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/Framework/myPlayerController_Auto5.uasset'
+[2025.08.16-16.28.49:705][440]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myPlayerState] ([2] browsable assets)...
+[2025.08.16-16.28.49:705][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myPlayerState]
+[2025.08.16-16.28.49:709][440]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Framework/myPlayerState_Auto5
+[2025.08.16-16.28.49:709][440]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myPlayerState_Auto5FD8D500243844FBE4391D0B1748C70DE.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/Framework/myPlayerState_Auto5.uasset'
+[2025.08.16-16.28.49:710][440]LogFileHelpers: Auto-saving content packages took 0.024
+[2025.08.16-16.29.29:148][863]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.16-16.29.36:409][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.08.16-16.29.36:418][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-16.29.36:538][102]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myHUD] ([2] browsable assets)...
+[2025.08.16-16.29.36:538][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myHUD]
+[2025.08.16-16.29.36:538][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/myHUD" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myHUD.uasset" SILENT=true
+[2025.08.16-16.29.36:543][102]LogSavePackage: Moving output files for package: /Game/Framework/myHUD
+[2025.08.16-16.29.36:543][102]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myHUD7769866D4FF48B2A68C6269A33865F01.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myHUD.uasset'
+[2025.08.16-16.29.36:548][102]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myGameState] ([2] browsable assets)...
+[2025.08.16-16.29.36:548][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myGameState]
+[2025.08.16-16.29.36:549][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/myGameState" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myGameState.uasset" SILENT=true
+[2025.08.16-16.29.36:553][102]LogSavePackage: Moving output files for package: /Game/Framework/myGameState
+[2025.08.16-16.29.36:553][102]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myGameState128947484F584D57518DE8801553B989.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myGameState.uasset'
+[2025.08.16-16.29.36:558][102]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myPlayerController] ([2] browsable assets)...
+[2025.08.16-16.29.36:558][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myPlayerController]
+[2025.08.16-16.29.36:558][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/myPlayerController" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myPlayerController.uasset" SILENT=true
+[2025.08.16-16.29.36:561][102]LogSavePackage: Moving output files for package: /Game/Framework/myPlayerController
+[2025.08.16-16.29.36:561][102]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myPlayerController3D08B4FC4B5B3BAAD6749C86975BD0FE.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myPlayerController.uasset'
+[2025.08.16-16.29.36:567][102]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myPlayerState] ([2] browsable assets)...
+[2025.08.16-16.29.36:567][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myPlayerState]
+[2025.08.16-16.29.36:567][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/myPlayerState" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myPlayerState.uasset" SILENT=true
+[2025.08.16-16.29.36:571][102]LogSavePackage: Moving output files for package: /Game/Framework/myPlayerState
+[2025.08.16-16.29.36:571][102]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myPlayerStateF7C52BFD462D4ADEECEF2A814F35F630.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myPlayerState.uasset'
+[2025.08.16-16.29.36:609][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.184 ms (total: 22.5 sec)
+[2025.08.16-16.29.36:724][102]LogContentValidation: Display: Starting to validate 4 assets
+[2025.08.16-16.29.36:724][102]LogContentValidation: Enabled validators:
+[2025.08.16-16.29.36:724][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-16.29.36:724][102]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-16.29.36:724][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-16.29.36:724][102]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-16.29.36:724][102]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-16.29.36:724][102]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-16.29.36:724][102]AssetCheck: /Game/Framework/myHUD Validating asset
+[2025.08.16-16.29.36:724][102]AssetCheck: /Game/Framework/myGameState Validating asset
+[2025.08.16-16.29.36:724][102]AssetCheck: /Game/Framework/myPlayerController Validating asset
+[2025.08.16-16.29.36:724][102]AssetCheck: /Game/Framework/myPlayerState Validating asset
+[2025.08.16-16.30.46:474][613]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 53638.753906
+[2025.08.16-16.30.47:476][616]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-16.30.47:476][616]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 53639.421875, Update Interval: 350.646698
+[2025.08.16-16.32.13:518][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.08.16-16.32.14:483][552]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-16.32.14:617][552]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myGameMode] ([2] browsable assets)...
+[2025.08.16-16.32.14:617][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myGameMode]
+[2025.08.16-16.32.14:617][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/myGameMode" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myGameMode.uasset" SILENT=true
+[2025.08.16-16.32.14:620][552]LogSavePackage: Moving output files for package: /Game/Framework/myGameMode
+[2025.08.16-16.32.14:621][552]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myGameMode39DF520244CB7ECA14CC7CAB37585B2C.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myGameMode.uasset'
+[2025.08.16-16.32.14:676][552]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.729 ms (total: 22.7 sec)
+[2025.08.16-16.32.14:790][552]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-16.32.14:790][552]LogContentValidation: Enabled validators:
+[2025.08.16-16.32.14:790][552]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-16.32.14:790][552]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-16.32.14:790][552]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-16.32.14:790][552]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-16.32.14:790][552]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-16.32.14:790][552]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-16.32.14:790][552]AssetCheck: /Game/Framework/myGameMode Validating asset
+[2025.08.16-16.37.34:846][548]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 54046.218750
+[2025.08.16-16.37.35:848][550]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-16.37.35:848][551]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 54046.886719, Update Interval: 312.242798
+[2025.08.16-16.43.43:223][653]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 54414.144531
+[2025.08.16-16.43.44:226][655]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-16.43.44:226][655]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 54414.812500, Update Interval: 334.712372
+[2025.08.16-16.49.52:938][761]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 54783.433594
+[2025.08.16-16.49.53:938][764]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-16.49.53:938][764]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 54784.101562, Update Interval: 358.784149
+[2025.08.16-16.51.48:221][628]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2025.08.16-16.51.50:298][628]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.16-16.51.50:359][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.08.16-16.51.50:383][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.08.16-16.51.50:404][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.08.16-16.52.04:844][736]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.16-16.52.04:877][736]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.16-16.52.04:884][736]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.16-16.52.04:897][737]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.16-16.52.08:321][943]LogContentBrowser: Attempting asset rename: NewBlueprint -> myGameState
+[2025.08.16-16.52.08:333][943]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.16-16.52.34:201][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2025.08.16-16.52.34:206][ 74]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/NewMap' took 0.045
+[2025.08.16-16.52.34:206][ 74]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myGameState] ([2] browsable assets)...
+[2025.08.16-16.52.34:206][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myGameState]
+[2025.08.16-16.52.34:212][ 74]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Framework/myGameState_Auto6
+[2025.08.16-16.52.34:212][ 74]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myGameState_Auto6F50DE3054BD9053468E8F1A35AF2E55E.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/Framework/myGameState_Auto6.uasset'
+[2025.08.16-16.52.34:212][ 74]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.08.16-16.54.24:531][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.08.16-16.54.24:542][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-16.54.24:649][505]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myGameMode] ([2] browsable assets)...
+[2025.08.16-16.54.24:649][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myGameMode]
+[2025.08.16-16.54.24:649][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/myGameMode" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myGameMode.uasset" SILENT=true
+[2025.08.16-16.54.24:653][505]LogSavePackage: Moving output files for package: /Game/Framework/myGameMode
+[2025.08.16-16.54.24:653][505]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myGameModeBC84405C4969A387C0532880153889CF.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myGameMode.uasset'
+[2025.08.16-16.54.24:656][505]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myGameState] ([2] browsable assets)...
+[2025.08.16-16.54.24:656][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myGameState]
+[2025.08.16-16.54.24:656][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/myGameState" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myGameState.uasset" SILENT=true
+[2025.08.16-16.54.24:659][505]LogSavePackage: Moving output files for package: /Game/Framework/myGameState
+[2025.08.16-16.54.24:659][505]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myGameStateF70EEBC24B535112E5E6A4A5C4B00E1B.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myGameState.uasset'
+[2025.08.16-16.54.24:706][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.832 ms (total: 22.9 sec)
+[2025.08.16-16.54.24:806][505]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.16-16.54.24:806][505]LogContentValidation: Enabled validators:
+[2025.08.16-16.54.24:806][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-16.54.24:806][505]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-16.54.24:806][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-16.54.24:806][505]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-16.54.24:806][505]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-16.54.24:806][505]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-16.54.24:807][505]AssetCheck: /Game/Framework/myGameMode Validating asset
+[2025.08.16-16.54.24:807][505]AssetCheck: /Game/Framework/myGameState Validating asset
+[2025.08.16-16.54.25:598][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.08.16-16.54.26:513][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-16.54.26:644][571]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myGameMode] ([2] browsable assets)...
+[2025.08.16-16.54.26:644][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myGameMode]
+[2025.08.16-16.54.26:644][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/myGameMode" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myGameMode.uasset" SILENT=true
+[2025.08.16-16.54.26:648][571]LogSavePackage: Moving output files for package: /Game/Framework/myGameMode
+[2025.08.16-16.54.26:649][571]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myGameModeA1989A964395CFA80A816198A4F7C4B8.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myGameMode.uasset'
+[2025.08.16-16.54.26:702][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.064 ms (total: 23.1 sec)
+[2025.08.16-16.54.26:819][571]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-16.54.26:819][571]LogContentValidation: Enabled validators:
+[2025.08.16-16.54.26:819][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-16.54.26:819][571]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-16.54.26:819][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-16.54.26:819][571]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-16.54.26:819][571]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-16.54.26:820][571]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-16.54.26:820][571]AssetCheck: /Game/Framework/myGameMode Validating asset
+[2025.08.16-16.54.53:047][992]LogSlate: Window 'New Level' being destroyed
+[2025.08.16-16.54.53:162][992]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.16-16.54.53:327][992]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-16.54.53:336][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-16.54.53:339][992]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/NewMap.NewMap
+[2025.08.16-16.54.53:444][992]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.16-16.54.53:496][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.08.16-16.54.53:506][992]LogWorld: UWorld::CleanupWorld for Ignore, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-16.54.53:507][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-16.54.53:538][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.08.16-16.54.53:561][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.08.16-16.54.53:569][992]LogStreaming: Display: FlushAsyncLoading(859): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.16-16.54.53:586][992]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_120'.
+[2025.08.16-16.54.53:587][992]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_120
+[2025.08.16-16.54.53:744][992]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.16-16.54.53:775][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.08.16-16.54.53:778][992]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.16-16.54.53:778][992]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.577ms to complete.
+[2025.08.16-16.54.57:457][168]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.16-16.54.57:482][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.16-16.54.57:497][168]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_120
+[2025.08.16-16.54.57:503][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005967s)
+[2025.08.16-16.54.57:503][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_120.Untitled_120 to /Temp/UEDPIE_0_Untitled_120.Untitled_120 (0.006059s)
+[2025.08.16-16.54.57:532][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.08.16-16.54.57:540][168]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_120
+[2025.08.16-16.54.57:544][168]LogPlayLevel: PIE: World Init took: (0.004713s)
+[2025.08.16-16.54.57:548][168]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.08.16-16.54.57:552][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.16-16.54.57:552][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.16-16.54.57:552][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.16-16.54.57:552][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.16-16.54.57:552][168]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.16-16.54.57:552][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.16-16.54.57:552][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.16-16.54.57:552][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.16-16.54.57:555][168]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.16-16.54.57:555][168]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.16-16.54.57:555][168]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.16-16.54.57:561][168]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.16-16.54.57:586][168]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2025.08.16-16.54.57:591][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.16-16.54.57:591][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.16-16.54.57:593][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.16-16.54.57:598][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.08.16-16.54.57:598][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.08.16-16.54.57:601][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.08.16-16.54.57:601][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.08.16-16.54.57:601][168]LogInit: FAudioDevice initialized with ID 13.
+[2025.08.16-16.54.57:601][168]LogAudio: Display: Audio Device (ID: 13) registered with world 'Untitled_120'.
+[2025.08.16-16.54.57:603][168]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.16-16.54.57:670][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.16-16.54.57:673][168]LogLoad: Game class is 'CustomGameMode_BP_C'
+[2025.08.16-16.54.57:676][168]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_120.Untitled_120 up for play (max tick rate 60) at 2025.08.17-02.54.57
+[2025.08.16-16.54.57:677][168]LogWorld: Bringing up level for play took: 0.002647
+[2025.08.16-16.54.57:690][168]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.08.16-16.54.57:770][168]PIE: Server logged in
+[2025.08.16-16.54.57:772][168]PIE: Play in editor total start time 0.296 seconds.
+[2025.08.16-16.55.45:676][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.16-16.55.45:676][594]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_120
+[2025.08.16-16.55.45:679][594]LogSlate: Window 'Prototype_Build Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.16-16.55.45:744][594]LogWorld: UWorld::CleanupWorld for Untitled_120, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-16.55.45:745][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-16.55.45:753][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.16-16.55.45:761][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-16.55.45:797][594]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.16-16.55.45:799][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.08.16-16.55.45:803][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.08.16-16.55.45:822][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.08.16-16.55.45:880][595]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.08.16-16.55.55:896][  6]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.16-16.55.55:913][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.16-16.55.55:913][  6]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_120
+[2025.08.16-16.55.55:915][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002254s)
+[2025.08.16-16.55.55:915][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_120.Untitled_120 to /Temp/UEDPIE_0_Untitled_120.Untitled_120 (0.002307s)
+[2025.08.16-16.55.55:948][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.08.16-16.55.55:952][  6]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_120
+[2025.08.16-16.55.55:954][  6]LogPlayLevel: PIE: World Init took: (0.002360s)
+[2025.08.16-16.55.55:956][  6]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.08.16-16.55.55:956][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.16-16.55.55:956][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.16-16.55.55:956][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.16-16.55.55:956][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.16-16.55.55:956][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.16-16.55.55:956][  6]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.16-16.55.55:956][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.16-16.55.55:956][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.16-16.55.55:956][  6]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.16-16.55.55:956][  6]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.16-16.55.55:956][  6]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.16-16.55.55:960][  6]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.16-16.55.55:987][  6]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2025.08.16-16.55.55:988][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.16-16.55.55:988][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.16-16.55.55:988][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.16-16.55.55:990][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.08.16-16.55.55:991][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.08.16-16.55.55:994][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.08.16-16.55.55:994][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.08.16-16.55.55:994][  6]LogInit: FAudioDevice initialized with ID 14.
+[2025.08.16-16.55.55:994][  6]LogAudio: Display: Audio Device (ID: 14) registered with world 'Untitled_120'.
+[2025.08.16-16.55.55:994][  6]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.08.16-16.55.56:069][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.16-16.55.56:070][  6]LogLoad: Game class is 'myGameMode_C'
+[2025.08.16-16.55.56:071][  6]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_120.Untitled_120 up for play (max tick rate 60) at 2025.08.17-02.55.56
+[2025.08.16-16.55.56:072][  6]LogWorld: Bringing up level for play took: 0.001194
+[2025.08.16-16.55.56:076][  6]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.08.16-16.55.56:084][  6]PIE: Server logged in
+[2025.08.16-16.55.56:086][  6]PIE: Play in editor total start time 0.174 seconds.
+[2025.08.16-16.55.57:868][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.16-16.55.57:868][ 51]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_120
+[2025.08.16-16.55.57:869][ 51]LogSlate: Window 'Prototype_Build Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.16-16.55.57:940][ 51]LogWorld: UWorld::CleanupWorld for Untitled_120, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-16.55.57:940][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-16.55.57:946][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.16-16.55.57:953][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-16.55.57:985][ 51]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.08.16-16.55.57:985][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.08.16-16.55.57:990][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.08.16-16.55.58:002][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.08.16-16.55.58:060][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.08.16-16.56.07:709][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.08.16-16.56.09:598][474]LogSlate: Window 'Save Content' being destroyed
+[2025.08.16-16.56.09:709][474]LogStreaming: Display: FlushAsyncLoading(860): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.16-16.56.09:762][474]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.16-16.56.09:770][474]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.08.16-16.56.09:770][474]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.16-16.56.09:770][474]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/NewMap.NewMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.16-16.56.09:806][474]LogWorldPartition: Display: WorldPartition initialize took 35.493 ms (total: 906.925 ms)
+[2025.08.16-16.56.09:808][474]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/NewMap.NewMap
+[2025.08.16-16.56.09:808][474]Cmd: MAP LOAD FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.16-16.56.09:878][474]LogWorld: UWorld::CleanupWorld for Untitled_120, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-16.56.09:878][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-16.56.09:909][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.16-16.56.09:912][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.08.16-16.56.09:918][474]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-16.56.09:918][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-16.56.09:918][474]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/NewMap.NewMap
+[2025.08.16-16.56.09:956][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.08.16-16.56.09:984][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.08.16-16.56.10:018][474]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2025.08.16-16.56.10:019][474]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.16-16.56.10:022][474]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.08.16-16.56.10:022][474]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.16-16.56.10:022][474]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/NewMap.NewMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.16-16.56.10:041][474]LogWorldPartition: Display: WorldPartition initialize took 19.909 ms (total: 926.834 ms)
+[2025.08.16-16.56.10:096][474]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.16-16.56.10:128][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.08.16-16.56.10:154][474]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.16-16.56.10:159][474]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.054ms to complete.
+[2025.08.16-16.56.24:709][600]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 55173.902344
+[2025.08.16-16.56.25:710][603]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-16.56.25:710][603]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 55174.566406, Update Interval: 304.746246
+[2025.08.16-16.59.39:442][273]LogSlate: External Image Picker: DecompressImage failed
+[2025.08.16-17.00.00:288][704]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.16-17.00.00:389][704]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: ================================================
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Total job queries 404, among them cache hits 98 (24.26%), DDC hits 199 (49.26%), Duplicates 5 (1.24%)
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Tracking 301 distinct input hashes that result in 239 distinct outputs (79.40%)
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: RAM used: 152.39 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Shaders Compiled: 102
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Jobs assigned 102, completed 102 (100%)
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Average time worker was idle: 4103.54 s
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 2.50 s
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Job execution time: average 1.28 s, max 4.03 s
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Job life time (pending + execution): average 1.45 s, max 4.17
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Shader code size: average 10.585 KiB, min 1.877 KiB, max 37.028 KiB
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 42.38 s
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Jobs were issued in 102 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Average processing rate: 2.41 jobs/sec
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Total thread time: 68.973 s
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Total thread preprocess time: 13.122 s
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Percentage time preprocessing: 19.02%
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Effective parallelization: 1.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    6 times, average 1.78 sec, max 2.12 sec, min 1.68 sec)
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 1.67 sec, max 2.01 sec, min 1.26 sec)
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.19 sec, max 1.19 sec, min 1.19 sec)
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.05 sec, max 1.05 sec, min 1.05 sec)
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   13 times, average 0.88 sec, max 1.07 sec, min 0.52 sec)
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.16-17.01.05:294][936]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.59% of total time (compiled   13 times, average 0.88 sec, max 1.07 sec, min 0.52 sec)
+[2025.08.16-17.01.05:296][936]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 15.52% of total time (compiled    6 times, average 1.78 sec, max 2.12 sec, min 1.68 sec)
+[2025.08.16-17.01.05:296][936]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.54% of total time (compiled   13 times, average 0.67 sec, max 0.84 sec, min 0.47 sec)
+[2025.08.16-17.01.05:296][936]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 12.14% of total time (compiled    5 times, average 1.67 sec, max 2.01 sec, min 1.26 sec)
+[2025.08.16-17.01.05:296][936]LogShaderCompilers: Display:                                               FNiagaraShader - 9.07% of total time (compiled   33 times, average 0.19 sec, max 0.44 sec, min 0.06 sec)
+[2025.08.16-17.01.05:296][936]LogShaderCompilers: Display: === Material stats ===
+[2025.08.16-17.01.05:296][936]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.16-17.01.05:296][936]LogShaderCompilers: Display: Materials Translated:    156
+[2025.08.16-17.01.05:296][936]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.08.16-17.01.05:296][936]LogShaderCompilers: Display: Material Translation Only: 0.08 s (37%)
+[2025.08.16-17.01.05:296][936]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.08.16-17.01.05:296][936]LogShaderCompilers: Display: Material Cache Hits: 12 (8%)
+[2025.08.16-17.01.05:296][936]LogShaderCompilers: Display: ================================================
+[2025.08.16-17.01.27:920][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
