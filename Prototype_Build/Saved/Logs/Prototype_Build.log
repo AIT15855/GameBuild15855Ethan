@@ -4375,3 +4375,358 @@ Sampler Limit: 32
 [2025.08.16-17.01.05:296][936]LogShaderCompilers: Display: Material Cache Hits: 12 (8%)
 [2025.08.16-17.01.05:296][936]LogShaderCompilers: Display: ================================================
 [2025.08.16-17.01.27:920][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.08.16-17.02.23:048][699]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 55531.785156
+[2025.08.16-17.02.24:047][702]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-17.02.24:049][703]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 55532.453125, Update Interval: 345.609314
+[2025.08.16-17.07.40:822][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.08.16-17.08.55:108][112]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 55923.332031
+[2025.08.16-17.08.56:108][115]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-17.08.56:108][116]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 55924.000000, Update Interval: 326.703094
+[2025.08.16-17.10.25:228][383]LogDerivedDataCache: C:/Users/ethan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.16-17.15.06:004][223]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 56293.738281
+[2025.08.16-17.15.07:003][226]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-17.15.07:003][226]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 56294.402344, Update Interval: 334.990692
+[2025.08.16-17.21.39:737][405]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 56687.304688
+[2025.08.16-17.21.40:740][407]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-17.21.40:740][408]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 56687.972656, Update Interval: 320.854523
+[2025.08.16-17.28.00:463][546]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 57067.953125
+[2025.08.16-17.28.01:463][549]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-17.28.01:463][549]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 57068.621094, Update Interval: 342.122864
+[2025.08.16-17.34.29:860][715]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 57457.300781
+[2025.08.16-17.34.30:864][718]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-17.34.30:864][718]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 57457.968750, Update Interval: 313.953064
+[2025.08.16-17.40.18:597][761]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 57805.984375
+[2025.08.16-17.40.19:598][764]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-17.40.19:598][764]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 57806.648438, Update Interval: 340.139771
+[2025.08.16-17.46.54:668][948]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 58201.980469
+[2025.08.16-17.46.55:670][951]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-17.46.55:670][952]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 58202.648438, Update Interval: 355.863525
+[2025.08.16-17.53.43:407][174]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 58610.636719
+[2025.08.16-17.53.44:408][177]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-17.53.44:408][178]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 58611.308594, Update Interval: 342.412170
+[2025.08.16-18.00.04:813][319]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 58992.039062
+[2025.08.16-18.00.05:812][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-18.00.05:812][322]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 58992.703125, Update Interval: 308.192383
+[2025.08.16-18.06.05:542][400]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 59352.726562
+[2025.08.16-18.06.06:542][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-18.06.06:542][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 59353.390625, Update Interval: 315.205536
+[2025.08.16-18.10.25:226][176]LogDerivedDataCache: C:/Users/ethan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.16-18.12.08:954][653]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.16-18.12.09:013][653]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.16-18.12.09:033][653]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.16-18.12.09:037][653]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 59715.925781
+[2025.08.16-18.12.09:064][654]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.16-18.12.09:356][671]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-18.12.09:356][671]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 59716.226562, Update Interval: 333.359161
+[2025.08.16-18.12.17:362][147]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_CameraShakeBase
+[2025.08.16-18.12.17:562][147]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.16-18.12.21:135][243]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_CameraShakeBase.BP_CameraShakeBase
+[2025.08.16-18.12.21:213][243]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.08.16-18.12.49:779][ 42]LogContentBrowser: Attempting asset rename: BP_CameraShakeBase -> BP_EnemyDeathCameraShake
+[2025.08.16-18.12.51:103][ 42]LogMetaData: Removing '/Game/Blueprints/BP_EnemyDeathCameraShake.SKEL_BP_EnemyDeathCameraShake_C' ref from Metadata '/Game/Blueprints/BP_CameraShakeBase.PackageMetaData'
+[2025.08.16-18.12.51:103][ 42]LogMetaData: Removing '/Game/Blueprints/BP_EnemyDeathCameraShake.BP_EnemyDeathCameraShake_C' ref from Metadata '/Game/Blueprints/BP_CameraShakeBase.PackageMetaData'
+[2025.08.16-18.12.51:191][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-18.12.51:196][ 42]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemyDeathCameraShake] ([2] browsable assets)...
+[2025.08.16-18.12.51:198][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemyDeathCameraShake]
+[2025.08.16-18.12.51:226][ 42]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemyDeathCameraShake
+[2025.08.16-18.12.51:226][ 42]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_EnemyDeathCameraShake436293C24A85496813387DA5A3A983D5.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_EnemyDeathCameraShake.uasset'
+[2025.08.16-18.12.51:278][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.151 ms (total: 23.2 sec)
+[2025.08.16-18.12.51:552][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2025.08.16-18.12.51:604][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.08.16-18.12.51:632][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.08.16-18.12.51:825][ 42]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-18.12.51:825][ 42]LogContentValidation: Enabled validators:
+[2025.08.16-18.12.51:826][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-18.12.51:826][ 42]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-18.12.51:826][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-18.12.51:826][ 42]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-18.12.51:826][ 42]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-18.12.51:826][ 42]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-18.12.51:827][ 42]AssetCheck: /Game/Blueprints/BP_EnemyDeathCameraShake Validating asset
+[2025.08.16-18.14.01:375][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2025.08.16-18.14.02:057][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-18.14.02:315][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemyDeathCameraShake] ([2] browsable assets)...
+[2025.08.16-18.14.02:315][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemyDeathCameraShake]
+[2025.08.16-18.14.02:318][197]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemyDeathCameraShake
+[2025.08.16-18.14.02:319][197]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_EnemyDeathCameraShake18263D1743440949D056EBAF1509BA10.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_EnemyDeathCameraShake.uasset'
+[2025.08.16-18.14.02:379][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 321.836 ms (total: 23.5 sec)
+[2025.08.16-18.14.02:553][197]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-18.14.02:553][197]LogContentValidation: Enabled validators:
+[2025.08.16-18.14.02:553][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-18.14.02:553][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-18.14.02:553][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-18.14.02:553][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-18.14.02:553][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-18.14.02:553][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-18.14.02:553][197]AssetCheck: /Game/Blueprints/BP_EnemyDeathCameraShake Validating asset
+[2025.08.16-18.16.06:106][198]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Framework/myPlayerController.myPlayerController
+[2025.08.16-18.16.06:108][198]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.08.16-18.16.27:749][994]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-18.16.27:762][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-18.16.28:803][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.08.16-18.18.20:514][871]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 60085.050781
+[2025.08.16-18.18.20:896][893]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-18.18.20:896][893]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 60085.394531, Update Interval: 334.232605
+[2025.08.16-18.18.55:134][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.08.16-18.18.55:719][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-18.18.55:919][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myPlayerController] ([2] browsable assets)...
+[2025.08.16-18.18.55:919][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myPlayerController]
+[2025.08.16-18.18.55:919][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/myPlayerController" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myPlayerController.uasset" SILENT=true
+[2025.08.16-18.18.55:941][668]LogSavePackage: Moving output files for package: /Game/Framework/myPlayerController
+[2025.08.16-18.18.55:942][668]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myPlayerControllerFB131A4D4DF3D4E1F972539A42201AE2.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myPlayerController.uasset'
+[2025.08.16-18.18.55:984][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 265.306 ms (total: 23.8 sec)
+[2025.08.16-18.18.56:156][668]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-18.18.56:156][668]LogContentValidation: Enabled validators:
+[2025.08.16-18.18.56:156][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-18.18.56:156][668]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-18.18.56:156][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-18.18.56:156][668]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-18.18.56:156][668]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-18.18.56:156][668]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-18.18.56:157][668]AssetCheck: /Game/Framework/myPlayerController Validating asset
+[2025.08.16-18.19.03:146][757]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.16-18.19.03:183][757]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.16-18.19.03:185][757]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.16-18.19.03:207][757]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 21.995 ms (total: 107.129 ms)
+[2025.08.16-18.19.03:218][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.16-18.19.03:236][757]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2025.08.16-18.19.03:264][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028709s)
+[2025.08.16-18.19.03:264][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.029274s)
+[2025.08.16-18.19.03:303][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.08.16-18.19.03:311][757]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.16-18.19.03:348][757]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.16-18.19.03:348][757]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.16-18.19.03:348][757]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.16-18.19.03:349][757]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.16-18.19.03:357][757]LogWorldPartition: Display: WorldPartition initialize took 8.934 ms (total: 935.768 ms)
+[2025.08.16-18.19.03:360][757]LogPlayLevel: PIE: World Init took: (0.049089s)
+[2025.08.16-18.19.03:368][757]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.08.16-18.19.03:372][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.16-18.19.03:372][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.16-18.19.03:372][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.16-18.19.03:372][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.16-18.19.03:372][757]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.16-18.19.03:372][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.16-18.19.03:373][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.16-18.19.03:373][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.16-18.19.03:376][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.16-18.19.03:376][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.16-18.19.03:376][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.16-18.19.03:388][757]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.16-18.19.03:438][757]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2025.08.16-18.19.03:447][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.16-18.19.03:447][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.16-18.19.03:451][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.16-18.19.03:461][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.08.16-18.19.03:461][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.08.16-18.19.03:467][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.08.16-18.19.03:467][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.08.16-18.19.03:467][757]LogInit: FAudioDevice initialized with ID 15.
+[2025.08.16-18.19.03:467][757]LogAudio: Display: Audio Device (ID: 15) registered with world 'NewMap'.
+[2025.08.16-18.19.03:470][757]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.16-18.19.03:616][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.16-18.19.03:620][757]LogLoad: Game class is 'myGameMode_C'
+[2025.08.16-18.19.03:628][757]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2025.08.17-04.19.03
+[2025.08.16-18.19.03:631][757]LogWorld: Bringing up level for play took: 0.008713
+[2025.08.16-18.19.03:649][757]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.08.16-18.19.03:716][757]LogStreaming: Display: FlushAsyncLoading(905,902,903,904,900,901): 6 QueuedPackages, 0 AsyncPackages
+[2025.08.16-18.19.03:820][757]PIE: Server logged in
+[2025.08.16-18.19.03:822][757]PIE: Play in editor total start time 0.651 seconds.
+[2025.08.16-18.19.10:174][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.16-18.19.10:174][929]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.16-18.19.10:179][929]LogSlate: Window 'Prototype_Build Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.16-18.19.10:266][929]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-18.19.10:269][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-18.19.10:269][929]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.16-18.19.10:285][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.16-18.19.10:295][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-18.19.10:344][929]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.16-18.19.10:344][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.08.16-18.19.10:354][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.08.16-18.19.10:386][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2025.08.16-18.19.10:618][930]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.08.16-18.23.09:285][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.08.16-18.23.09:949][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-18.23.10:181][815]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Base_Enemy] ([2] browsable assets)...
+[2025.08.16-18.23.10:181][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Base_Enemy]
+[2025.08.16-18.23.10:181][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Base_Enemy" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Enemy.uasset" SILENT=true
+[2025.08.16-18.23.10:209][815]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Base_Enemy
+[2025.08.16-18.23.10:209][815]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Base_Enemy00AC48A3435F6FA1BBA187B819A6C62C.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Enemy.uasset'
+[2025.08.16-18.23.10:252][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 302.209 ms (total: 24.1 sec)
+[2025.08.16-18.23.10:452][815]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-18.23.10:452][815]LogContentValidation: Enabled validators:
+[2025.08.16-18.23.10:452][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-18.23.10:452][815]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-18.23.10:452][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-18.23.10:452][815]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-18.23.10:452][815]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-18.23.10:452][815]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-18.23.10:453][815]AssetCheck: /Game/Blueprints/BP_Base_Enemy Validating asset
+[2025.08.16-18.23.11:680][883]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.16-18.23.11:706][883]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.16-18.23.11:706][883]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.16-18.23.11:709][883]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 3.435 ms (total: 110.565 ms)
+[2025.08.16-18.23.11:710][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.16-18.23.11:710][883]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2025.08.16-18.23.11:714][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003684s)
+[2025.08.16-18.23.11:714][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.003750s)
+[2025.08.16-18.23.11:761][883]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2025.08.16-18.23.11:767][883]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.16-18.23.11:771][883]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.16-18.23.11:771][883]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.16-18.23.11:771][883]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.16-18.23.11:771][883]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.16-18.23.11:773][883]LogWorldPartition: Display: WorldPartition initialize took 1.909 ms (total: 937.678 ms)
+[2025.08.16-18.23.11:773][883]LogPlayLevel: PIE: World Init took: (0.006122s)
+[2025.08.16-18.23.11:775][883]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.08.16-18.23.11:775][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.16-18.23.11:775][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.16-18.23.11:775][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.16-18.23.11:775][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.16-18.23.11:775][883]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.16-18.23.11:775][883]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.16-18.23.11:775][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.16-18.23.11:776][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.16-18.23.11:776][883]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.16-18.23.11:776][883]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.16-18.23.11:776][883]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.16-18.23.11:782][883]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.16-18.23.11:823][883]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2025.08.16-18.23.11:824][883]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.16-18.23.11:824][883]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.16-18.23.11:824][883]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.16-18.23.11:824][883]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.08.16-18.23.11:824][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.08.16-18.23.11:831][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.08.16-18.23.11:831][883]LogInit: FAudioDevice initialized with ID 16.
+[2025.08.16-18.23.11:831][883]LogAudio: Display: Audio Device (ID: 16) registered with world 'NewMap'.
+[2025.08.16-18.23.11:831][883]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.08.16-18.23.11:831][883]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.16-18.23.11:961][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.16-18.23.11:961][883]LogLoad: Game class is 'myGameMode_C'
+[2025.08.16-18.23.11:963][883]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2025.08.17-04.23.11
+[2025.08.16-18.23.11:964][883]LogWorld: Bringing up level for play took: 0.001429
+[2025.08.16-18.23.11:968][883]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.08.16-18.23.11:974][883]LogStreaming: Display: FlushAsyncLoading(911,908,909,910,906,907): 6 QueuedPackages, 0 AsyncPackages
+[2025.08.16-18.23.11:988][883]PIE: Server logged in
+[2025.08.16-18.23.11:991][883]PIE: Play in editor total start time 0.286 seconds.
+[2025.08.16-18.23.35:320][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.16-18.23.35:320][542]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.16-18.23.35:322][542]LogSlate: Window 'Prototype_Build Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.16-18.23.35:417][542]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-18.23.35:419][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-18.23.35:421][542]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.16-18.23.35:431][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.16-18.23.35:444][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-18.23.35:501][542]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.16-18.23.35:502][542]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.16-18.23.35:502][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.08.16-18.23.35:506][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.08.16-18.23.35:528][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2025.08.16-18.23.35:691][543]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.08.16-18.24.39:458][359]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 60461.148438
+[2025.08.16-18.24.39:786][377]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-18.24.39:786][378]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 60461.449219, Update Interval: 344.254272
+[2025.08.16-18.25.26:017][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.08.16-18.25.26:702][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-18.25.26:927][401]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Base_Enemy] ([2] browsable assets)...
+[2025.08.16-18.25.26:927][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Base_Enemy]
+[2025.08.16-18.25.26:927][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Base_Enemy" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Enemy.uasset" SILENT=true
+[2025.08.16-18.25.26:944][401]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Base_Enemy
+[2025.08.16-18.25.26:944][401]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Base_Enemy04FB5F8A4DBD8A97B77E6B9B50943EF1.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Enemy.uasset'
+[2025.08.16-18.25.26:994][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 291.926 ms (total: 24.3 sec)
+[2025.08.16-18.25.27:167][401]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-18.25.27:167][401]LogContentValidation: Enabled validators:
+[2025.08.16-18.25.27:167][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-18.25.27:167][401]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-18.25.27:167][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-18.25.27:167][401]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-18.25.27:167][401]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-18.25.27:167][401]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-18.25.27:167][401]AssetCheck: /Game/Blueprints/BP_Base_Enemy Validating asset
+[2025.08.16-18.25.28:128][446]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.16-18.25.28:150][446]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.16-18.25.28:150][446]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.16-18.25.28:152][446]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 2.908 ms (total: 113.473 ms)
+[2025.08.16-18.25.28:152][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.16-18.25.28:153][446]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2025.08.16-18.25.28:158][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004554s)
+[2025.08.16-18.25.28:158][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004622s)
+[2025.08.16-18.25.28:194][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.08.16-18.25.28:199][446]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.16-18.25.28:202][446]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.16-18.25.28:202][446]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.16-18.25.28:202][446]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.16-18.25.28:202][446]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.16-18.25.28:204][446]LogWorldPartition: Display: WorldPartition initialize took 1.736 ms (total: 939.414 ms)
+[2025.08.16-18.25.28:204][446]LogPlayLevel: PIE: World Init took: (0.004568s)
+[2025.08.16-18.25.28:205][446]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.08.16-18.25.28:205][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.16-18.25.28:205][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.16-18.25.28:205][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.16-18.25.28:205][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.16-18.25.28:205][446]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.16-18.25.28:205][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.16-18.25.28:205][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.16-18.25.28:205][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.16-18.25.28:205][446]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.16-18.25.28:205][446]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.16-18.25.28:205][446]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.16-18.25.28:210][446]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.16-18.25.28:245][446]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2025.08.16-18.25.28:246][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.16-18.25.28:246][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.16-18.25.28:246][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.16-18.25.28:247][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.08.16-18.25.28:247][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.08.16-18.25.28:252][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.08.16-18.25.28:252][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.08.16-18.25.28:252][446]LogInit: FAudioDevice initialized with ID 17.
+[2025.08.16-18.25.28:252][446]LogAudio: Display: Audio Device (ID: 17) registered with world 'NewMap'.
+[2025.08.16-18.25.28:252][446]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.08.16-18.25.28:437][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.16-18.25.28:437][446]LogLoad: Game class is 'myGameMode_C'
+[2025.08.16-18.25.28:438][446]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2025.08.17-04.25.28
+[2025.08.16-18.25.28:438][446]LogWorld: Bringing up level for play took: 0.001222
+[2025.08.16-18.25.28:443][446]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2025.08.16-18.25.28:448][446]LogStreaming: Display: FlushAsyncLoading(917,914,915,916,912,913): 6 QueuedPackages, 0 AsyncPackages
+[2025.08.16-18.25.28:463][446]PIE: Server logged in
+[2025.08.16-18.25.28:466][446]PIE: Play in editor total start time 0.317 seconds.
+[2025.08.16-18.25.49:760][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.16-18.25.49:760][ 50]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.16-18.25.49:762][ 50]LogSlate: Window 'Prototype_Build Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.16-18.25.49:854][ 50]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-18.25.49:855][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-18.25.49:855][ 50]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.16-18.25.49:862][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.16-18.25.49:870][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-18.25.49:951][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.16-18.25.49:951][ 50]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.08.16-18.25.49:952][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.08.16-18.25.49:957][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.08.16-18.25.49:975][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2025.08.16-18.25.50:131][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.08.16-18.26.15:829][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2025.08.16-18.26.15:832][173]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/NewMap' took 0.043
+[2025.08.16-18.26.15:833][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myPlayerController] ([2] browsable assets)...
+[2025.08.16-18.26.15:833][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myPlayerController]
+[2025.08.16-18.26.15:838][173]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Framework/myPlayerController_Auto7
+[2025.08.16-18.26.15:838][173]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myPlayerController_Auto794D491694D5204445971F9BD97C2A525.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/Framework/myPlayerController_Auto7.uasset'
+[2025.08.16-18.26.15:839][173]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.08.16-18.28.30:841][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.08.16-18.28.30:849][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-18.28.31:026][865]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myPlayerController] ([2] browsable assets)...
+[2025.08.16-18.28.31:026][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myPlayerController]
+[2025.08.16-18.28.31:026][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/myPlayerController" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myPlayerController.uasset" SILENT=true
+[2025.08.16-18.28.31:033][865]LogSavePackage: Moving output files for package: /Game/Framework/myPlayerController
+[2025.08.16-18.28.31:034][865]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myPlayerControllerA0F43DA74983A0A4ECB6BAA6CEC9F618.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myPlayerController.uasset'
+[2025.08.16-18.28.31:092][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 243.157 ms (total: 24.6 sec)
+[2025.08.16-18.28.31:258][865]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-18.28.31:259][865]LogContentValidation: Enabled validators:
+[2025.08.16-18.28.31:259][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-18.28.31:259][865]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-18.28.31:259][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-18.28.31:259][865]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-18.28.31:259][865]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-18.28.31:259][865]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-18.28.31:259][865]AssetCheck: /Game/Framework/myPlayerController Validating asset
