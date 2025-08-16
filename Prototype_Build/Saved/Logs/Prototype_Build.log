@@ -3710,3 +3710,208 @@ Sampler Limit: 32
 [2025.08.16-14.49.11:897][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.08.16-14.49.11:897][448]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.08.16-14.49.11:897][448]AssetCheck: /Game/Blueprints/Player_BP Validating asset
+[2025.08.16-14.49.36:689][568]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47590.843750
+[2025.08.16-14.49.38:024][572]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-14.49.38:024][573]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47591.851562, Update Interval: 330.676605
+[2025.08.16-14.56.06:580][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47980.558594
+[2025.08.16-14.56.07:578][860]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-14.56.07:578][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47981.226562, Update Interval: 301.737732
+[2025.08.16-15.01.52:640][895]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48326.433594
+[2025.08.16-15.01.53:642][898]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-15.01.53:642][898]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48327.097656, Update Interval: 334.369934
+[2025.08.16-15.08.13:697][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48707.367188
+[2025.08.16-15.08.14:695][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-15.08.14:696][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48708.031250, Update Interval: 344.779816
+[2025.08.16-15.10.25:228][433]LogDerivedDataCache: C:/Users/ethan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.16-15.14.34:012][269]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49087.574219
+[2025.08.16-15.14.34:418][292]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-15.14.34:418][293]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49087.964844, Update Interval: 339.746094
+[2025.08.16-15.21.14:108][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49487.570312
+[2025.08.16-15.21.15:432][567]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-15.21.15:432][567]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49488.562500, Update Interval: 343.693970
+[2025.08.16-15.27.47:835][744]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49881.160156
+[2025.08.16-15.27.48:835][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-15.27.48:835][747]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49881.824219, Update Interval: 322.220520
+[2025.08.16-15.34.10:563][892]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50263.773438
+[2025.08.16-15.34.11:890][896]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-15.34.11:890][897]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50264.773438, Update Interval: 332.335571
+[2025.08.16-15.37.37:088][982]LogUObjectHash: Compacting FUObjectHashTables data took   9.69ms
+[2025.08.16-15.37.44:351][982]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.16-15.38.20:237][ 97]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.08.16-15.38.20:270][ 97]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.08.16-15.38.20:301][ 97]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.08.16-15.38.20:338][ 98]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.08.16-15.38.26:469][406]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_PauseScreen
+[2025.08.16-15.38.26:503][406]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.08.16-15.38.30:978][577]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_PauseScreen.WBP_PauseScreen
+[2025.08.16-15.38.30:984][577]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.08.16-15.38.31:013][577]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.08.16-15.38.37:117][705]LogSlate: Window 'WBP_PauseScreen' being destroyed
+[2025.08.16-15.38.41:689][840]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-15.38.41:689][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-15.38.41:710][840]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-15.38.41:710][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-15.38.41:956][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.08.16-15.40.32:743][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50645.738281
+[2025.08.16-15.40.33:740][289]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-15.40.33:740][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50646.402344, Update Interval: 302.027039
+[2025.08.16-15.46.27:228][675]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50998.648438
+[2025.08.16-15.46.28:227][678]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-15.46.28:228][678]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50999.312500, Update Interval: 332.504028
+[2025.08.16-15.51.08:440][454]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.16-15.51.13:473][602]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.16-15.51.28:334][890]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.16-15.51.31:506][999]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.16-15.52.01:780][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.08.16-15.52.01:784][375]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/NewMap' took 0.047
+[2025.08.16-15.52.01:785][375]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_PauseScreen] ([2] browsable assets)...
+[2025.08.16-15.52.01:801][375]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_PauseScreen.WBP_PauseScreen]
+[2025.08.16-15.52.01:801][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_PauseScreen]
+[2025.08.16-15.52.01:808][375]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_PauseScreen_Auto2
+[2025.08.16-15.52.01:808][375]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/WBP_PauseScreen_Auto229B6549E49747B18308EDD85B67BD14C.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/UI/WBP_PauseScreen_Auto2.uasset'
+[2025.08.16-15.52.01:810][375]LogFileHelpers: Auto-saving content packages took 0.025
+[2025.08.16-15.52.07:417][521]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.16-15.52.26:511][957]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.16-15.52.35:936][290]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.16-15.53.00:204][796]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51389.207031
+[2025.08.16-15.53.01:203][799]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-15.53.01:203][799]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51389.871094, Update Interval: 353.083893
+[2025.08.16-15.55.46:813][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2025.08.16-15.55.47:959][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-15.55.48:195][573]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_PauseScreen] ([2] browsable assets)...
+[2025.08.16-15.55.48:214][573]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_PauseScreen.WBP_PauseScreen]
+[2025.08.16-15.55.48:214][573]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_PauseScreen]
+[2025.08.16-15.55.48:214][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_PauseScreen" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/UI/WBP_PauseScreen.uasset" SILENT=true
+[2025.08.16-15.55.48:230][573]LogSavePackage: Moving output files for package: /Game/UI/WBP_PauseScreen
+[2025.08.16-15.55.48:230][573]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/WBP_PauseScreen8B1D26E14F7A70BAD74093AF65CCEE42.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/UI/WBP_PauseScreen.uasset'
+[2025.08.16-15.55.48:282][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 324.460 ms (total: 20.9 sec)
+[2025.08.16-15.55.48:478][573]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-15.55.48:478][573]LogContentValidation: Enabled validators:
+[2025.08.16-15.55.48:478][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-15.55.48:478][573]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-15.55.48:478][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-15.55.48:478][573]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-15.55.48:478][573]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-15.55.48:478][573]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-15.55.48:479][573]AssetCheck: /Game/UI/WBP_PauseScreen Validating asset
+[2025.08.16-15.59.49:602][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51795.917969
+[2025.08.16-15.59.50:603][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-15.59.50:603][236]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51796.582031, Update Interval: 328.904083
+[2025.08.16-16.01.35:867][900]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2025.08.16-16.01.36:690][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-16.01.36:905][933]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_PauseScreen] ([2] browsable assets)...
+[2025.08.16-16.01.36:924][933]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_PauseScreen.WBP_PauseScreen]
+[2025.08.16-16.01.36:924][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_PauseScreen]
+[2025.08.16-16.01.36:924][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_PauseScreen" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/UI/WBP_PauseScreen.uasset" SILENT=true
+[2025.08.16-16.01.36:939][933]LogSavePackage: Moving output files for package: /Game/UI/WBP_PauseScreen
+[2025.08.16-16.01.36:940][933]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/WBP_PauseScreen009AC6E2401F01B7E2F5D0940404E775.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/UI/WBP_PauseScreen.uasset'
+[2025.08.16-16.01.36:978][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 288.698 ms (total: 21.1 sec)
+[2025.08.16-16.01.37:119][933]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-16.01.37:119][933]LogContentValidation: Enabled validators:
+[2025.08.16-16.01.37:119][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-16.01.37:119][933]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-16.01.37:119][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-16.01.37:119][933]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-16.01.37:119][933]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-16.01.37:119][933]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-16.01.37:121][933]AssetCheck: /Game/UI/WBP_PauseScreen Validating asset
+[2025.08.16-16.02.22:425][437]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/GameOver.GameOver
+[2025.08.16-16.02.22:425][437]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.08.16-16.02.22:474][437]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.08.16-16.02.27:983][632]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-16.02.27:983][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-16.02.28:004][632]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-16.02.28:004][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-16.02.28:243][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.08.16-16.03.47:832][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.08.16-16.03.47:837][208]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/NewMap' took 0.046
+[2025.08.16-16.03.47:838][208]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_PauseScreen] ([2] browsable assets)...
+[2025.08.16-16.03.47:843][208]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_PauseScreen.WBP_PauseScreen]
+[2025.08.16-16.03.47:843][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_PauseScreen]
+[2025.08.16-16.03.47:853][208]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_PauseScreen_Auto3
+[2025.08.16-16.03.47:853][208]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/WBP_PauseScreen_Auto3D0EB1F634AB065942574229B2FE40D43.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/UI/WBP_PauseScreen_Auto3.uasset'
+[2025.08.16-16.03.47:854][208]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.08.16-16.04.07:075][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2025.08.16-16.04.07:550][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-16.04.07:772][812]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_PauseScreen] ([2] browsable assets)...
+[2025.08.16-16.04.07:791][812]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_PauseScreen.WBP_PauseScreen]
+[2025.08.16-16.04.07:791][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_PauseScreen]
+[2025.08.16-16.04.07:791][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_PauseScreen" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/UI/WBP_PauseScreen.uasset" SILENT=true
+[2025.08.16-16.04.07:809][812]LogSavePackage: Moving output files for package: /Game/UI/WBP_PauseScreen
+[2025.08.16-16.04.07:810][812]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/WBP_PauseScreen7C5FAC0A44F359BEFEF967B0808109BF.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/UI/WBP_PauseScreen.uasset'
+[2025.08.16-16.04.07:850][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 300.731 ms (total: 21.4 sec)
+[2025.08.16-16.04.07:993][812]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-16.04.07:993][812]LogContentValidation: Enabled validators:
+[2025.08.16-16.04.07:993][812]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-16.04.07:993][812]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-16.04.07:993][812]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-16.04.07:993][812]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-16.04.07:993][812]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-16.04.07:993][812]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-16.04.07:994][812]AssetCheck: /Game/UI/WBP_PauseScreen Validating asset
+[2025.08.16-16.06.14:381][ 39]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 52178.746094
+[2025.08.16-16.06.14:810][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-16.06.14:810][ 60]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 52179.132812, Update Interval: 332.624908
+[2025.08.16-16.10.25:225][693]LogDerivedDataCache: C:/Users/ethan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.16-16.11.13:701][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.08.16-16.11.14:365][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-16.11.14:493][946]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_PauseScreen] ([2] browsable assets)...
+[2025.08.16-16.11.14:512][946]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_PauseScreen.WBP_PauseScreen]
+[2025.08.16-16.11.14:512][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_PauseScreen]
+[2025.08.16-16.11.14:512][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_PauseScreen" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/UI/WBP_PauseScreen.uasset" SILENT=true
+[2025.08.16-16.11.14:550][946]LogSavePackage: Moving output files for package: /Game/UI/WBP_PauseScreen
+[2025.08.16-16.11.14:551][946]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/WBP_PauseScreen5022489B43419524AA4B8FB48B620C4E.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/UI/WBP_PauseScreen.uasset'
+[2025.08.16-16.11.14:582][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 217.043 ms (total: 21.7 sec)
+[2025.08.16-16.11.14:683][946]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-16.11.14:683][946]LogContentValidation: Enabled validators:
+[2025.08.16-16.11.14:683][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-16.11.14:683][946]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-16.11.14:683][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-16.11.14:683][946]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-16.11.14:683][946]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-16.11.14:683][946]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-16.11.14:684][946]AssetCheck: /Game/UI/WBP_PauseScreen Validating asset
+[2025.08.16-16.12.29:614][306]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 52548.394531
+[2025.08.16-16.12.30:613][309]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-16.12.30:613][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 52549.062500, Update Interval: 310.781586
+[2025.08.16-16.12.46:234][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.08.16-16.12.47:299][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.16-16.12.47:417][456]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_PauseScreen] ([2] browsable assets)...
+[2025.08.16-16.12.47:435][456]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_PauseScreen.WBP_PauseScreen]
+[2025.08.16-16.12.47:435][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_PauseScreen]
+[2025.08.16-16.12.47:435][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_PauseScreen" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/UI/WBP_PauseScreen.uasset" SILENT=true
+[2025.08.16-16.12.47:447][456]LogSavePackage: Moving output files for package: /Game/UI/WBP_PauseScreen
+[2025.08.16-16.12.47:448][456]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/WBP_PauseScreen99231A3A47D43A2708C794BA343C8E8D.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/UI/WBP_PauseScreen.uasset'
+[2025.08.16-16.12.47:478][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.502 ms (total: 21.8 sec)
+[2025.08.16-16.12.47:573][456]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.16-16.12.47:573][456]LogContentValidation: Enabled validators:
+[2025.08.16-16.12.47:573][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.16-16.12.47:573][456]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.16-16.12.47:573][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.16-16.12.47:573][456]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.16-16.12.47:573][456]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.16-16.12.47:573][456]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.16-16.12.47:574][456]AssetCheck: /Game/UI/WBP_PauseScreen Validating asset
+[2025.08.16-16.14.47:200][981]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.08.16-16.14.47:291][981]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.08.16-16.16.34:021][694]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Ignore/CustomGameMode_BP.CustomGameMode_BP
+[2025.08.16-16.16.34:024][694]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.08.16-16.16.38:297][893]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-16.16.38:299][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-16.16.38:360][893]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Ignore/CustomGameMode_BP.CustomGameMode_BP
+[2025.08.16-16.16.38:361][893]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.08.16-16.16.39:060][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.08.16-16.17.15:560][696]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.08.16-16.17.15:561][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.16-16.17.15:663][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.08.16-16.18.23:257][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.08.16-16.18.23:259][324]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/NewMap' took 0.029
+[2025.08.16-16.18.23:260][324]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player_BP] ([2] browsable assets)...
+[2025.08.16-16.18.23:372][324]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player_BP.Player_BP]
+[2025.08.16-16.18.23:372][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player_BP]
+[2025.08.16-16.18.23:419][324]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player_BP_Auto4
+[2025.08.16-16.18.23:419][324]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Player_BP_Auto4ED3172FB4E2DFD660348DA830BCEE2BE.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/Blueprints/Player_BP_Auto4.uasset'
+[2025.08.16-16.18.23:420][324]LogFileHelpers: Auto-saving content packages took 0.161
+[2025.08.16-16.18.32:073][415]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 52908.332031
+[2025.08.16-16.18.33:075][418]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-16.18.33:075][418]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 52909.003906, Update Interval: 330.947601
