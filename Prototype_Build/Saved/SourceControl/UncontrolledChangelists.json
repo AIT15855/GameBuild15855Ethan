@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Materials/test.uasset",
+				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Particles/FX_EnemyDeath.uasset",
+				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Particles/BP_EnemyDeathExplosion.uasset",
+				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Enemy.uasset",
+				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Particles/FX_EnemyDeath_System.uasset",
 				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/Prototype_Build/Content/PlaneShooterAttemptOne_HLOD0_Instancing.uasset",
 				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/Prototype_Build/Content/PlaneShooterAttemptOne.umap",
 				"C:/Users/ethan/OneDrive/Documents/Unreal Projects/Prototype_Build/Content/CustomGameMode_BP.uasset",
