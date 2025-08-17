@@ -3970,3 +3970,79 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2025.08.17-06.38.11:251][565]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3277.982666
 [2025.08.17-06.38.12:242][568]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.17-06.38.12:242][568]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3278.649414, Update Interval: 344.536255
+[2025.08.17-06.44.40:773][741]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3667.502686
+[2025.08.17-06.44.41:779][744]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.17-06.44.41:779][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3668.176514, Update Interval: 315.189056
+[2025.08.17-06.45.21:001][208]LogDerivedDataCache: C:/Users/ethan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.17-06.45.23:698][295]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-06.45.23:699][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-06.45.23:926][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.08.17-06.45.26:803][338]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.17-06.45.26:803][338]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-06.45.26:803][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-06.45.26:932][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.08.17-06.45.30:141][444]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-06.45.30:141][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-06.45.30:162][444]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-06.45.30:162][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-06.45.30:401][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2025.08.17-06.45.31:071][465]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-06.45.31:071][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-06.45.31:089][465]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-06.45.31:091][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-06.45.31:242][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2025.08.17-06.45.36:611][667]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Framework/myPlayerController.myPlayerController
+[2025.08.17-06.45.36:612][667]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.08.17-06.45.50:339][ 63]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_PlayerUI.WBP_PlayerUI
+[2025.08.17-06.45.50:341][ 63]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.08.17-06.45.50:387][ 63]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.08.17-06.45.59:571][299]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Framework/BPI_myFlyingShmup.BPI_myFlyingShmup
+[2025.08.17-06.45.59:572][299]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.08.17-06.47.43:766][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.08.17-06.47.43:771][801]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartScreen' took 0.119
+[2025.08.17-06.47.43:772][801]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/BPI_myFlyingShmup] ([2] browsable assets)...
+[2025.08.17-06.47.43:772][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/BPI_myFlyingShmup]
+[2025.08.17-06.47.43:777][801]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Framework/BPI_myFlyingShmup_Auto3
+[2025.08.17-06.47.43:777][801]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BPI_myFlyingShmup_Auto353920FEA4DD994BB4F0030BD4B31386A.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/Framework/BPI_myFlyingShmup_Auto3.uasset'
+[2025.08.17-06.47.43:778][801]LogFileHelpers: Auto-saving content packages took 0.008
+[2025.08.17-06.47.50:786][ 81]LogSlate: Took 0.002228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.08.17-06.50.48:942][452]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4035.664795
+[2025.08.17-06.50.49:941][455]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.17-06.50.49:941][456]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4036.330078, Update Interval: 319.365814
+[2025.08.17-06.54.06:511][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.08.17-06.54.07:371][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-06.54.07:593][126]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/BPI_myFlyingShmup] ([2] browsable assets)...
+[2025.08.17-06.54.07:593][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/BPI_myFlyingShmup]
+[2025.08.17-06.54.07:593][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BPI_myFlyingShmup" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/BPI_myFlyingShmup.uasset" SILENT=true
+[2025.08.17-06.54.07:599][126]LogSavePackage: Moving output files for package: /Game/Framework/BPI_myFlyingShmup
+[2025.08.17-06.54.07:600][126]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BPI_myFlyingShmup0DB34E004E7DCD4C527280A3A0B3B565.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/BPI_myFlyingShmup.uasset'
+[2025.08.17-06.54.07:651][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 279.060 ms (total: 3.34 sec)
+[2025.08.17-06.54.07:817][126]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-06.54.07:817][126]LogContentValidation: Enabled validators:
+[2025.08.17-06.54.07:817][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-06.54.07:817][126]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-06.54.07:817][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-06.54.07:817][126]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-06.54.07:817][126]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-06.54.07:817][126]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-06.54.07:817][126]AssetCheck: /Game/Framework/BPI_myFlyingShmup Validating asset
+[2025.08.17-06.57.08:261][579]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4414.979492
+[2025.08.17-06.57.09:262][582]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.17-06.57.09:262][582]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4415.643066, Update Interval: 354.041565
+[2025.08.17-06.57.42:838][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.08.17-06.57.43:506][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-06.57.43:725][911]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/myPlayerController] ([2] browsable assets)...
+[2025.08.17-06.57.43:725][911]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/myPlayerController]
+[2025.08.17-06.57.43:725][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/myPlayerController" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myPlayerController.uasset" SILENT=true
+[2025.08.17-06.57.43:741][911]LogSavePackage: Moving output files for package: /Game/Framework/myPlayerController
+[2025.08.17-06.57.43:742][911]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/myPlayerController0CB242B74AF0C02332533D94D1D3F535.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/myPlayerController.uasset'
+[2025.08.17-06.57.43:783][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 276.814 ms (total: 3.62 sec)
+[2025.08.17-06.57.43:914][911]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-06.57.43:914][911]LogContentValidation: Enabled validators:
+[2025.08.17-06.57.43:914][911]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-06.57.43:914][911]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-06.57.43:914][911]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-06.57.43:914][911]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-06.57.43:914][911]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-06.57.43:914][911]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-06.57.43:914][911]AssetCheck: /Game/Framework/myPlayerController Validating asset
