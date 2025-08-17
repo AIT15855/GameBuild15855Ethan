@@ -6433,3 +6433,1381 @@ Make sure 'BPI_myFlyingShmup_C' has been compiled for  On Player Death
 [2025.08.17-12.25.54:245][546]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Screenshot_2025-08-17_at_22-10-53_walkie-talkie-vector-art-icons-graphics_1049408-16454_jpg__AVIF_Image_626_×_626_pixels__preview_rev_1_Auto2
 [2025.08.17-12.25.54:246][546]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Screenshot_2025-08-17_at_22-10-5862BCB1142117EEF7884AB9313F776D5.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/Textures/Screenshot_2025-08-17_at_22-10-53_walkie-talkie-vector-art-icons-graphics_1049408-16454_jpg__AVIF_Image_626_×_626_pixels__preview_rev_1_Auto2.uasset'
 [2025.08.17-12.25.54:246][546]LogFileHelpers: Auto-saving content packages took 0.021
+[2025.08.17-12.27.44:380][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2025.08.17-12.27.53:705][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2025.08.17-12.27.55:729][266]LogSlate: Window 'Save Content' being destroyed
+[2025.08.17-12.27.55:801][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-12.27.56:008][266]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Base_Pickup] ([2] browsable assets)...
+[2025.08.17-12.27.56:116][266]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup]
+[2025.08.17-12.27.56:116][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Base_Pickup]
+[2025.08.17-12.27.56:116][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Base_Pickup" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Pickup.uasset" SILENT=true
+[2025.08.17-12.27.56:124][266]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Base_Pickup
+[2025.08.17-12.27.56:125][266]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Base_Pickup5A37AB624431EC0731E0CF9478A63EDD.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Pickup.uasset'
+[2025.08.17-12.27.56:133][266]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/2/CC/G77CY6NEEYMCUDEOJOIMSL
+[2025.08.17-12.27.56:133][266]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/G77CY6NEEYMCUDEOJOIMSL9BAF7A5148669CA220A649954D78F93F.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/__ExternalActors__/Maps/NewMap/2/CC/G77CY6NEEYMCUDEOJOIMSL.uasset'
+[2025.08.17-12.27.56:142][266]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/BPI_myFlyingShmup] ([2] browsable assets)...
+[2025.08.17-12.27.56:142][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/BPI_myFlyingShmup]
+[2025.08.17-12.27.56:142][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BPI_myFlyingShmup" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/BPI_myFlyingShmup.uasset" SILENT=true
+[2025.08.17-12.27.56:146][266]LogSavePackage: Moving output files for package: /Game/Framework/BPI_myFlyingShmup
+[2025.08.17-12.27.56:147][266]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BPI_myFlyingShmupA39E55854B47E90A00576899ECCF87A1.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/BPI_myFlyingShmup.uasset'
+[2025.08.17-12.27.56:148][266]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Screenshot_2025-08-17_at_22-10-53_walkie-talkie-vector-art-icons-graphics_1049408-16454_jpg__AVIF_Image_626_×_626_pixels__preview_rev_1] ([1] browsable assets)...
+[2025.08.17-12.27.56:148][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Screenshot_2025-08-17_at_22-10-53_walkie-talkie-vector-art-icons-graphics_1049408-16454_jpg__AVIF_Image_626_×_626_pixels__preview_rev_1]
+[2025.08.17-12.27.56:170][266]LogSavePackage: Moving output files for package: /Game/Textures/Screenshot_2025-08-17_at_22-10-53_walkie-talkie-vector-art-icons-graphics_1049408-16454_jpg__AVIF_Image_626_×_626_pixels__preview_rev_1
+[2025.08.17-12.27.56:170][266]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Screenshot_2025-08-17_at_22-10-51E649E4B47BABEAD6F51D080D56BC827.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Textures/Screenshot_2025-08-17_at_22-10-53_walkie-talkie-vector-art-icons-graphics_1049408-16454_jpg__AVIF_Image_626_×_626_pixels__preview_rev_1.uasset'
+[2025.08.17-12.27.56:477][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 675.041 ms (total: 12.6 sec)
+[2025.08.17-12.27.56:478][266]LogStreaming: Display: FlushAsyncLoading(1362): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.17-12.27.56:573][266]LogChaosDD: Creating Chaos Debug Draw Scene for world StartScreen
+[2025.08.17-12.27.56:577][266]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/StartScreen.StartScreen
+[2025.08.17-12.27.56:581][266]Cmd: MAP LOAD FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Maps/StartScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.17-12.27.56:687][266]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.27.56:688][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.27.56:688][266]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/NewMap.NewMap
+[2025.08.17-12.27.56:810][266]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-12.27.56:828][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.08.17-12.27.56:838][266]LogWorld: UWorld::CleanupWorld for StartScreen, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.27.56:838][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.27.56:906][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2025.08.17-12.27.56:957][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.08.17-12.27.56:998][266]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartScreen'.
+[2025.08.17-12.27.56:998][266]LogChaosDD: Creating Chaos Debug Draw Scene for world StartScreen
+[2025.08.17-12.27.57:094][266]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.17-12.27.57:157][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.08.17-12.27.57:184][266]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.17-12.27.57:184][266]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.486ms to complete.
+[2025.08.17-12.27.57:500][266]LogContentValidation: Display: Starting to validate 4 assets
+[2025.08.17-12.27.57:500][266]LogContentValidation: Enabled validators:
+[2025.08.17-12.27.57:500][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-12.27.57:500][266]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-12.27.57:500][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-12.27.57:500][266]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-12.27.57:500][266]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-12.27.57:500][266]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-12.27.57:503][266]AssetCheck: /Game/Blueprints/BP_Base_Pickup Validating asset
+[2025.08.17-12.27.57:503][266]AssetCheck: /Game/Framework/BPI_myFlyingShmup Validating asset
+[2025.08.17-12.27.57:503][266]AssetCheck: /Game/Textures/Screenshot_2025-08-17_at_22-10-53_walkie-talkie-vector-art-icons-graphics_1049408-16454_jpg__AVIF_Image_626_×_626_pixels__preview_rev_1 Validating asset
+[2025.08.17-12.27.59:391][338]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.17-12.27.59:415][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.17-12.27.59:416][338]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartScreen
+[2025.08.17-12.27.59:420][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003474s)
+[2025.08.17-12.27.59:420][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartScreen.StartScreen to /Game/Maps/UEDPIE_0_StartScreen.StartScreen (0.003580s)
+[2025.08.17-12.27.59:469][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2025.08.17-12.27.59:478][338]LogChaosDD: Creating Chaos Debug Draw Scene for world StartScreen
+[2025.08.17-12.27.59:481][338]LogPlayLevel: PIE: World Init took: (0.003067s)
+[2025.08.17-12.27.59:482][338]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.08.17-12.27.59:482][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.17-12.27.59:482][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.17-12.27.59:482][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.17-12.27.59:482][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.17-12.27.59:482][338]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.17-12.27.59:482][338]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.17-12.27.59:482][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.17-12.27.59:482][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.17-12.27.59:482][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.17-12.27.59:482][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.17-12.27.59:482][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.17-12.27.59:488][338]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.17-12.27.59:531][338]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2025.08.17-12.27.59:532][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.17-12.27.59:532][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.17-12.27.59:532][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.17-12.27.59:533][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.08.17-12.27.59:533][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.08.17-12.27.59:539][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.08.17-12.27.59:539][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.08.17-12.27.59:539][338]LogInit: FAudioDevice initialized with ID 27.
+[2025.08.17-12.27.59:539][338]LogAudio: Display: Audio Device (ID: 27) registered with world 'StartScreen'.
+[2025.08.17-12.27.59:539][338]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.08.17-12.27.59:687][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-12.27.59:689][338]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-12.27.59:691][338]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartScreen.StartScreen up for play (max tick rate 60) at 2025.08.17-22.27.59
+[2025.08.17-12.27.59:692][338]LogWorld: Bringing up level for play took: 0.001627
+[2025.08.17-12.27.59:699][338]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.08.17-12.27.59:743][338]PIE: Server logged in
+[2025.08.17-12.27.59:748][338]PIE: Play in editor total start time 0.335 seconds.
+[2025.08.17-12.28.02:261][389]Cmd: quit
+[2025.08.17-12.28.02:320][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-12.28.02:321][389]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartScreen
+[2025.08.17-12.28.02:323][389]LogSlate: Window 'Prototype_Build Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.17-12.28.02:393][389]LogWorld: UWorld::CleanupWorld for StartScreen, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.28.02:394][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.28.02:402][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.17-12.28.02:411][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.28.02:461][389]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-12.28.02:462][389]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.08.17-12.28.02:462][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.08.17-12.28.02:466][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.08.17-12.28.02:485][389]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2025.08.17-12.28.02:549][390]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.08.17-12.28.03:608][444]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.17-12.28.03:638][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.17-12.28.03:641][444]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartScreen
+[2025.08.17-12.28.03:642][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001904s)
+[2025.08.17-12.28.03:642][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartScreen.StartScreen to /Game/Maps/UEDPIE_0_StartScreen.StartScreen (0.001953s)
+[2025.08.17-12.28.03:699][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.08.17-12.28.03:702][444]LogChaosDD: Creating Chaos Debug Draw Scene for world StartScreen
+[2025.08.17-12.28.03:705][444]LogPlayLevel: PIE: World Init took: (0.002171s)
+[2025.08.17-12.28.03:705][444]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.08.17-12.28.03:705][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.17-12.28.03:705][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.17-12.28.03:705][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.17-12.28.03:705][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.17-12.28.03:705][444]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.17-12.28.03:705][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.17-12.28.03:705][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.17-12.28.03:705][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.17-12.28.03:705][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.17-12.28.03:705][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.17-12.28.03:705][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.17-12.28.03:708][444]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.17-12.28.03:733][444]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2025.08.17-12.28.03:733][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.17-12.28.03:733][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.17-12.28.03:733][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.17-12.28.03:734][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.08.17-12.28.03:734][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.08.17-12.28.03:738][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.08.17-12.28.03:738][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.08.17-12.28.03:738][444]LogInit: FAudioDevice initialized with ID 28.
+[2025.08.17-12.28.03:738][444]LogAudio: Display: Audio Device (ID: 28) registered with world 'StartScreen'.
+[2025.08.17-12.28.03:738][444]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.08.17-12.28.03:876][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-12.28.03:877][444]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-12.28.03:877][444]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartScreen.StartScreen up for play (max tick rate 60) at 2025.08.17-22.28.03
+[2025.08.17-12.28.03:878][444]LogWorld: Bringing up level for play took: 0.000675
+[2025.08.17-12.28.03:884][444]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2025.08.17-12.28.03:894][444]PIE: Server logged in
+[2025.08.17-12.28.03:897][444]PIE: Play in editor total start time 0.258 seconds.
+[2025.08.17-12.28.05:815][493]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/NewMap"
+[2025.08.17-12.28.05:815][493]LogNet: Browse: /Game/Maps/NewMap
+[2025.08.17-12.28.05:815][493]LogLoad: LoadMap: /Game/Maps/NewMap
+[2025.08.17-12.28.05:815][493]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartScreen
+[2025.08.17-12.28.05:818][493]LogWorld: UWorld::CleanupWorld for StartScreen, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.28.05:818][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.28.05:977][493]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-12.28.05:982][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2025.08.17-12.28.05:991][493]LogStreaming: Display: FlushAsyncLoading(1364): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.17-12.28.06:064][493]LogAudio: Display: Audio Device (ID: 28) registered with world 'NewMap'.
+[2025.08.17-12.28.06:064][493]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-12.28.06:068][493]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.17-12.28.06:068][493]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-12.28.06:068][493]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.08.17-12.28.06:068][493]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.17-12.28.06:081][493]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.17-12.28.06:087][493]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/Maps/NewMap (0xAEE676B3001CF298) that has been renamed to /Game/Maps/UEDPIE_0_NewMap (0x3A81DAFF7F63333B)
+[2025.08.17-12.28.06:101][493]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 19.272 ms (total: 275.767 ms)
+[2025.08.17-12.28.06:102][493]LogWorldPartition: Display: WorldPartition initialize took 34.585 ms (total: 1.35 sec)
+[2025.08.17-12.28.06:102][493]LogPlayLevel: PIE: World Init took: (0.038045s)
+[2025.08.17-12.28.06:102][493]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-12.28.06:116][493]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2025.08.17-22.28.06
+[2025.08.17-12.28.06:117][493]LogWorld: Bringing up level for play took: 0.013866
+[2025.08.17-12.28.06:138][493]LogLoad: Took 0.323883 seconds to LoadMap(/Game/Maps/NewMap)
+[2025.08.17-12.28.06:140][493]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/NewMap
+[2025.08.17-12.28.20:802][844]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/StartScreen"
+[2025.08.17-12.28.20:802][844]LogNet: Browse: /Game/Maps/StartScreen
+[2025.08.17-12.28.20:802][844]LogLoad: LoadMap: /Game/Maps/StartScreen
+[2025.08.17-12.28.20:802][844]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-12.28.20:806][844]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.28.20:807][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.28.20:807][844]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.17-12.28.20:923][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-12.28.20:930][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.08.17-12.28.20:936][844]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartScreen
+[2025.08.17-12.28.20:939][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003063s)
+[2025.08.17-12.28.20:940][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartScreen.StartScreen to /Game/Maps/UEDPIE_0_StartScreen.StartScreen (0.003181s)
+[2025.08.17-12.28.20:940][844]LogAudio: Display: Audio Device (ID: 28) registered with world 'StartScreen'.
+[2025.08.17-12.28.20:940][844]LogChaosDD: Creating Chaos Debug Draw Scene for world StartScreen
+[2025.08.17-12.28.20:942][844]LogPlayLevel: PIE: World Init took: (0.002787s)
+[2025.08.17-12.28.20:942][844]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-12.28.20:942][844]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartScreen.StartScreen up for play (max tick rate 60) at 2025.08.17-22.28.20
+[2025.08.17-12.28.20:943][844]LogWorld: Bringing up level for play took: 0.000878
+[2025.08.17-12.28.20:944][844]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.08.17-12.28.20:951][844]LogLoad: Took 0.148279 seconds to LoadMap(/Game/Maps/UEDPIE_0_StartScreen)
+[2025.08.17-12.28.20:951][844]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_StartScreen
+[2025.08.17-12.28.23:024][895]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/NewMap"
+[2025.08.17-12.28.23:024][895]LogNet: Browse: /Game/Maps/NewMap
+[2025.08.17-12.28.23:024][895]LogLoad: LoadMap: /Game/Maps/NewMap
+[2025.08.17-12.28.23:024][895]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartScreen
+[2025.08.17-12.28.23:026][895]LogWorld: UWorld::CleanupWorld for StartScreen, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.28.23:026][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.28.23:215][895]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-12.28.23:220][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2025.08.17-12.28.23:226][895]LogStreaming: Display: FlushAsyncLoading(1387): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.17-12.28.23:284][895]LogAudio: Display: Audio Device (ID: 28) registered with world 'NewMap'.
+[2025.08.17-12.28.23:284][895]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-12.28.23:287][895]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.17-12.28.23:287][895]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-12.28.23:287][895]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.08.17-12.28.23:287][895]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.17-12.28.23:288][895]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.17-12.28.23:293][895]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/Maps/NewMap (0xAEE676B3001CF298) that has been renamed to /Game/Maps/UEDPIE_0_NewMap (0x3A81DAFF7F63333B)
+[2025.08.17-12.28.23:301][895]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 12.024 ms (total: 287.792 ms)
+[2025.08.17-12.28.23:303][895]LogWorldPartition: Display: WorldPartition initialize took 16.571 ms (total: 1.37 sec)
+[2025.08.17-12.28.23:303][895]LogPlayLevel: PIE: World Init took: (0.019636s)
+[2025.08.17-12.28.23:303][895]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-12.28.23:305][895]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2025.08.17-22.28.23
+[2025.08.17-12.28.23:306][895]LogWorld: Bringing up level for play took: 0.002227
+[2025.08.17-12.28.23:324][895]LogLoad: Took 0.300186 seconds to LoadMap(/Game/Maps/NewMap)
+[2025.08.17-12.28.23:324][895]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/NewMap
+[2025.08.17-12.28.26:870][958]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/NewMap"
+[2025.08.17-12.28.26:870][958]LogNet: Browse: /Game/Maps/NewMap
+[2025.08.17-12.28.26:870][958]LogLoad: LoadMap: /Game/Maps/NewMap
+[2025.08.17-12.28.26:870][958]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-12.28.26:872][958]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.28.26:872][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.28.26:872][958]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.17-12.28.26:983][958]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-12.28.26:988][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2025.08.17-12.28.26:995][958]LogStreaming: Display: FlushAsyncLoading(1410): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.17-12.28.27:048][958]LogAudio: Display: Audio Device (ID: 28) registered with world 'NewMap'.
+[2025.08.17-12.28.27:048][958]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-12.28.27:051][958]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.17-12.28.27:051][958]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-12.28.27:051][958]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.08.17-12.28.27:051][958]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.17-12.28.27:055][958]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.17-12.28.27:058][958]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/Maps/NewMap (0xAEE676B3001CF298) that has been renamed to /Game/Maps/UEDPIE_0_NewMap (0x3A81DAFF7F63333B)
+[2025.08.17-12.28.27:065][958]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 10.566 ms (total: 298.358 ms)
+[2025.08.17-12.28.27:066][958]LogWorldPartition: Display: WorldPartition initialize took 15.005 ms (total: 1.38 sec)
+[2025.08.17-12.28.27:066][958]LogPlayLevel: PIE: World Init took: (0.017882s)
+[2025.08.17-12.28.27:066][958]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-12.28.27:068][958]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2025.08.17-22.28.27
+[2025.08.17-12.28.27:070][958]LogWorld: Bringing up level for play took: 0.002159
+[2025.08.17-12.28.27:086][958]LogLoad: Took 0.216640 seconds to LoadMap(/Game/Maps/NewMap)
+[2025.08.17-12.28.27:086][958]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/NewMap
+[2025.08.17-12.28.36:066][198]LogBlueprintUserMessages: [BP_Base_Pickup_C_UAID_50EBF692FDA7378602_1898608679] You have picked up a pickup
+[2025.08.17-12.28.37:362][236]LogBlueprintUserMessages: [BP_Base_Pickup_C_UAID_50EBF692FDA7378602_1898608679] You have picked up a pickup
+[2025.08.17-12.28.39:126][284]LogBlueprintUserMessages: [BP_Base_Pickup_C_UAID_50EBF692FDA7378602_1898608679] You have picked up a pickup
+[2025.08.17-12.28.40:881][333]LogBlueprintUserMessages: [BP_Base_Pickup_C_UAID_50EBF692FDA7378602_1898608679] You have picked up a pickup
+[2025.08.17-12.28.43:075][390]LogBlueprintUserMessages: [BP_Base_Pickup_C_UAID_50EBF692FDA7378602_1898608679] You have picked up a pickup
+[2025.08.17-12.28.56:586][705]LogScript: Warning: Attempted to access AudioComponent_17 via property ShootingSound, but AudioComponent_17 is not valid (pending kill or garbage)
+	Player_BP_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.Player_BP_C_0
+	Function /Game/Blueprints/Player_BP.Player_BP_C:ExecuteUbergraph_Player_BP:09D1
+[2025.08.17-12.28.56:588][705]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_17 via property ShootingSound, but AudioComponent_17 is not valid (pending kill or garbage)". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph Player BP Blueprint:  Player_BP
+[2025.08.17-12.28.59:261][776]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/NewMap"
+[2025.08.17-12.28.59:261][776]LogNet: Browse: /Game/Maps/NewMap
+[2025.08.17-12.28.59:261][776]LogLoad: LoadMap: /Game/Maps/NewMap
+[2025.08.17-12.28.59:262][776]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-12.28.59:266][776]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.28.59:267][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.28.59:267][776]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.17-12.28.59:388][776]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-12.28.59:395][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2025.08.17-12.28.59:403][776]LogStreaming: Display: FlushAsyncLoading(1433): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.17-12.28.59:464][776]LogAudio: Display: Audio Device (ID: 28) registered with world 'NewMap'.
+[2025.08.17-12.28.59:464][776]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-12.28.59:467][776]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.17-12.28.59:467][776]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-12.28.59:467][776]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.08.17-12.28.59:467][776]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.17-12.28.59:469][776]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.17-12.28.59:473][776]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/Maps/NewMap (0xAEE676B3001CF298) that has been renamed to /Game/Maps/UEDPIE_0_NewMap (0x3A81DAFF7F63333B)
+[2025.08.17-12.28.59:480][776]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 10.200 ms (total: 308.558 ms)
+[2025.08.17-12.28.59:481][776]LogWorldPartition: Display: WorldPartition initialize took 14.557 ms (total: 1.40 sec)
+[2025.08.17-12.28.59:481][776]LogPlayLevel: PIE: World Init took: (0.017451s)
+[2025.08.17-12.28.59:481][776]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-12.28.59:483][776]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2025.08.17-22.28.59
+[2025.08.17-12.28.59:484][776]LogWorld: Bringing up level for play took: 0.001861
+[2025.08.17-12.28.59:499][776]LogLoad: Took 0.237489 seconds to LoadMap(/Game/Maps/NewMap)
+[2025.08.17-12.28.59:499][776]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/NewMap
+[2025.08.17-12.29.22:117][358]LogScript: Warning: Attempted to access AudioComponent_1 via property LowHealthReminder, but AudioComponent_1 is not valid (pending kill or garbage)
+	Player_BP_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.Player_BP_C_0
+	Function /Game/Blueprints/Player_BP.Player_BP_C:ExecuteUbergraph_Player_BP:09AD
+[2025.08.17-12.29.22:118][358]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_1 via property LowHealthReminder, but AudioComponent_1 is not valid (pending kill or garbage)". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph Player BP Blueprint:  Player_BP
+[2025.08.17-12.29.22:118][358]LogScript: Warning: Accessed None trying to read property ShootingSound
+	Player_BP_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.Player_BP_C_0
+	Function /Game/Blueprints/Player_BP.Player_BP_C:ExecuteUbergraph_Player_BP:09D1
+[2025.08.17-12.29.22:118][358]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ShootingSound". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph Player BP Blueprint:  Player_BP
+[2025.08.17-12.29.24:232][418]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/NewMap"
+[2025.08.17-12.29.24:233][418]LogNet: Browse: /Game/Maps/NewMap
+[2025.08.17-12.29.24:233][418]LogLoad: LoadMap: /Game/Maps/NewMap
+[2025.08.17-12.29.24:233][418]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-12.29.24:236][418]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.29.24:237][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.29.24:237][418]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.17-12.29.24:357][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-12.29.24:363][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2025.08.17-12.29.24:370][418]LogStreaming: Display: FlushAsyncLoading(1456): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.17-12.29.24:429][418]LogAudio: Display: Audio Device (ID: 28) registered with world 'NewMap'.
+[2025.08.17-12.29.24:429][418]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-12.29.24:432][418]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.17-12.29.24:432][418]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-12.29.24:432][418]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.08.17-12.29.24:432][418]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.17-12.29.24:435][418]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.17-12.29.24:439][418]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/Maps/NewMap (0xAEE676B3001CF298) that has been renamed to /Game/Maps/UEDPIE_0_NewMap (0x3A81DAFF7F63333B)
+[2025.08.17-12.29.24:446][418]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 11.433 ms (total: 319.992 ms)
+[2025.08.17-12.29.24:448][418]LogWorldPartition: Display: WorldPartition initialize took 16.168 ms (total: 1.41 sec)
+[2025.08.17-12.29.24:448][418]LogPlayLevel: PIE: World Init took: (0.019329s)
+[2025.08.17-12.29.24:448][418]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-12.29.24:450][418]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2025.08.17-22.29.24
+[2025.08.17-12.29.24:451][418]LogWorld: Bringing up level for play took: 0.002040
+[2025.08.17-12.29.24:468][418]LogLoad: Took 0.234309 seconds to LoadMap(/Game/Maps/NewMap)
+[2025.08.17-12.29.24:468][418]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/NewMap
+[2025.08.17-12.29.57:384][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-12.29.57:384][269]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-12.29.57:386][269]LogSlate: Window 'Prototype_Build Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.17-12.29.57:488][269]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.29.57:490][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.29.57:490][269]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.17-12.29.57:499][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.17-12.29.57:516][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.29.57:577][269]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.08.17-12.29.57:577][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.08.17-12.29.57:581][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.08.17-12.29.57:599][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.08.17-12.29.57:988][270]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.08.17-12.29.59:961][304]LogSlate: Window 'Message Log' being destroyed
+[2025.08.17-12.30.00:129][304]LogSlate: Window 'Message Log' being destroyed
+[2025.08.17-12.30.26:492][522]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24412.621094
+[2025.08.17-12.30.27:488][525]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.17-12.30.27:488][525]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24413.283203, Update Interval: 339.616089
+[2025.08.17-12.32.04:686][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2025.08.17-12.32.04:688][ 44]LogStreaming: Display: FlushAsyncLoading(1479): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.17-12.32.05:000][ 44]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-12.32.05:004][ 44]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.08.17-12.32.05:004][ 44]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-12.32.05:004][ 44]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/NewMap.NewMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.17-12.32.05:029][ 44]LogWorldPartition: Display: WorldPartition initialize took 25.179 ms (total: 1.44 sec)
+[2025.08.17-12.32.05:033][ 44]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/NewMap.NewMap
+[2025.08.17-12.32.05:034][ 44]Cmd: MAP LOAD FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.17-12.32.05:110][ 44]LogWorld: UWorld::CleanupWorld for StartScreen, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.32.05:110][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.32.05:147][ 44]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-12.32.05:151][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.08.17-12.32.05:155][ 44]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.32.05:155][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.32.05:155][ 44]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/NewMap.NewMap
+[2025.08.17-12.32.05:207][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2025.08.17-12.32.05:267][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.08.17-12.32.05:312][ 44]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2025.08.17-12.32.05:312][ 44]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-12.32.05:315][ 44]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.08.17-12.32.05:315][ 44]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-12.32.05:315][ 44]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/NewMap.NewMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.17-12.32.05:340][ 44]LogWorldPartition: Display: WorldPartition initialize took 24.748 ms (total: 1.46 sec)
+[2025.08.17-12.32.05:409][ 44]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.17-12.32.05:463][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.08.17-12.32.05:492][ 44]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.17-12.32.05:493][ 44]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.876ms to complete.
+[2025.08.17-12.33.30:360][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2025.08.17-12.33.31:082][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-12.33.31:310][956]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/BPI_myFlyingShmup] ([2] browsable assets)...
+[2025.08.17-12.33.31:310][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/BPI_myFlyingShmup]
+[2025.08.17-12.33.31:310][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BPI_myFlyingShmup" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/BPI_myFlyingShmup.uasset" SILENT=true
+[2025.08.17-12.33.31:315][956]LogSavePackage: Moving output files for package: /Game/Framework/BPI_myFlyingShmup
+[2025.08.17-12.33.31:316][956]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BPI_myFlyingShmupAA8B984246792DB8E9BE8294A653EFA1.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Framework/BPI_myFlyingShmup.uasset'
+[2025.08.17-12.33.31:372][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 290.171 ms (total: 12.9 sec)
+[2025.08.17-12.33.31:522][956]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-12.33.31:522][956]LogContentValidation: Enabled validators:
+[2025.08.17-12.33.31:522][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-12.33.31:522][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-12.33.31:522][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-12.33.31:522][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-12.33.31:522][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-12.33.31:522][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-12.33.31:522][956]AssetCheck: /Game/Framework/BPI_myFlyingShmup Validating asset
+[2025.08.17-12.35.00:976][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.08.17-12.35.01:538][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-12.35.01:774][385]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Base_Pickup] ([2] browsable assets)...
+[2025.08.17-12.35.01:908][385]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup]
+[2025.08.17-12.35.01:908][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Base_Pickup]
+[2025.08.17-12.35.01:908][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Base_Pickup" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Pickup.uasset" SILENT=true
+[2025.08.17-12.35.01:921][385]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Base_Pickup
+[2025.08.17-12.35.01:922][385]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Base_PickupDD6E3260445A0D47A822DE9B1CB07EBC.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Pickup.uasset'
+[2025.08.17-12.35.01:959][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 421.098 ms (total: 13.3 sec)
+[2025.08.17-12.35.02:125][385]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-12.35.02:125][385]LogContentValidation: Enabled validators:
+[2025.08.17-12.35.02:125][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-12.35.02:125][385]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-12.35.02:125][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-12.35.02:125][385]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-12.35.02:125][385]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-12.35.02:125][385]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-12.35.02:125][385]AssetCheck: /Game/Blueprints/BP_Base_Pickup Validating asset
+[2025.08.17-12.36.24:049][172]LogContentBrowser: Deferred new asset file creation: BP_Base_Pickup_Child
+[2025.08.17-12.36.24:105][172]LogContentBrowser: Creating deferred item: BP_Base_Pickup_Child
+[2025.08.17-12.36.24:145][173]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Base_Pickup_Child).
+[2025.08.17-12.36.29:750][342]LogContentBrowser: Attempting asset rename: BP_Base_Pickup_Child -> BP_Health
+[2025.08.17-12.36.29:811][342]LogContentBrowser: End creating deferred item BP_Base_Pickup_Child
+[2025.08.17-12.36.29:817][342]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.08.17-12.36.45:870][986]LogContentBrowser: Attempting asset rename: BP_Health -> BP_Pickup_BasicHealth
+[2025.08.17-12.36.46:521][986]LogMetaData: Removing '/Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Health.PackageMetaData'
+[2025.08.17-12.36.46:521][986]LogMetaData: Removing '/Game/Blueprints/BP_Pickup_BasicHealth.SKEL_BP_Pickup_BasicHealth_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Health.PackageMetaData'
+[2025.08.17-12.36.46:521][986]LogMetaData: Removing '/Game/Blueprints/BP_Pickup_BasicHealth.SKEL_BP_Pickup_BasicHealth_C' ref from Metadata '/Game/Blueprints/BP_Health.PackageMetaData'
+[2025.08.17-12.36.46:521][986]LogMetaData: Removing '/Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth_C' ref from Metadata '/Game/Blueprints/BP_Health.PackageMetaData'
+[2025.08.17-12.36.46:521][986]LogMetaData: Removing '/Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_Health.PackageMetaData'
+[2025.08.17-12.36.46:521][986]LogMetaData: Removing '/Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_Health.PackageMetaData'
+[2025.08.17-12.36.46:521][986]LogMetaData: Removing '/Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/BP_Health.PackageMetaData'
+[2025.08.17-12.36.46:521][986]LogMetaData: Removing '/Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_Health.PackageMetaData'
+[2025.08.17-12.36.46:539][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-12.36.46:539][986]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pickup_BasicHealth] ([2] browsable assets)...
+[2025.08.17-12.36.46:540][986]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.08.17-12.36.46:658][986]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth]
+[2025.08.17-12.36.46:660][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pickup_BasicHealth]
+[2025.08.17-12.36.46:668][986]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pickup_BasicHealth
+[2025.08.17-12.36.46:668][986]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Pickup_BasicHealthC4C2F160494CDF8D2F34D699D35EA0A1.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Pickup_BasicHealth.uasset'
+[2025.08.17-12.36.46:681][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.603 ms (total: 13.5 sec)
+[2025.08.17-12.36.46:793][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2025.08.17-12.36.46:849][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2025.08.17-12.36.46:901][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.08.17-12.36.47:161][986]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-12.36.47:161][986]LogContentValidation: Enabled validators:
+[2025.08.17-12.36.47:161][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-12.36.47:162][986]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-12.36.47:162][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-12.36.47:162][986]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-12.36.47:162][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-12.36.47:162][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-12.36.47:162][986]AssetCheck: /Game/Blueprints/BP_Pickup_BasicHealth Validating asset
+[2025.08.17-12.36.51:629][ 31]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth
+[2025.08.17-12.36.51:630][ 31]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.08.17-12.36.53:329][ 48]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24799.468750
+[2025.08.17-12.36.53:661][ 68]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.17-12.36.53:661][ 69]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24799.781250, Update Interval: 321.526550
+[2025.08.17-12.37.13:086][520]LogContentBrowser: Deferred new asset file creation: BP_Base_Pickup_Child
+[2025.08.17-12.37.13:105][520]LogContentBrowser: Creating deferred item: BP_Base_Pickup_Child
+[2025.08.17-12.37.13:131][521]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Base_Pickup_Child).
+[2025.08.17-12.37.27:139][322]LogContentBrowser: Attempting asset rename: BP_Base_Pickup_Child -> BP_Pickup_BonusHealth
+[2025.08.17-12.37.27:152][322]LogContentBrowser: End creating deferred item BP_Base_Pickup_Child
+[2025.08.17-12.37.27:154][322]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2025.08.17-12.37.29:304][423]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Pickup_BonusHealth.BP_Pickup_BonusHealth
+[2025.08.17-12.37.29:304][423]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.08.17-12.37.58:530][ 72]LogStreaming: Display: FlushAsyncLoading(1520): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.17-12.38.32:113][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2025.08.17-12.38.32:790][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-12.38.33:022][204]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pickup_BasicHealth] ([2] browsable assets)...
+[2025.08.17-12.38.33:049][204]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth]
+[2025.08.17-12.38.33:049][204]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pickup_BasicHealth]
+[2025.08.17-12.38.33:059][204]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pickup_BasicHealth
+[2025.08.17-12.38.33:060][204]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Pickup_BasicHealthC287A6174D9E63BD14EA18A5B4D737C2.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Pickup_BasicHealth.uasset'
+[2025.08.17-12.38.33:100][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 310.066 ms (total: 13.8 sec)
+[2025.08.17-12.38.33:289][204]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-12.38.33:289][204]LogContentValidation: Enabled validators:
+[2025.08.17-12.38.33:289][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-12.38.33:289][204]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-12.38.33:289][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-12.38.33:289][204]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-12.38.33:289][204]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-12.38.33:290][204]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-12.38.33:290][204]AssetCheck: /Game/Blueprints/BP_Pickup_BasicHealth Validating asset
+[2025.08.17-12.38.34:723][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2025.08.17-12.38.35:391][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-12.38.35:596][270]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pickup_BonusHealth] ([2] browsable assets)...
+[2025.08.17-12.38.35:677][270]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pickup_BonusHealth.BP_Pickup_BonusHealth]
+[2025.08.17-12.38.35:677][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pickup_BonusHealth]
+[2025.08.17-12.38.35:687][270]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pickup_BonusHealth
+[2025.08.17-12.38.35:687][270]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Pickup_BonusHealth916C27B449E49F24D8470E88B3ECBFC0.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Pickup_BonusHealth.uasset'
+[2025.08.17-12.38.35:741][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 349.399 ms (total: 14.1 sec)
+[2025.08.17-12.38.35:958][270]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-12.38.35:958][270]LogContentValidation: Enabled validators:
+[2025.08.17-12.38.35:958][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-12.38.35:958][270]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-12.38.35:958][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-12.38.35:958][270]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-12.38.35:958][270]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-12.38.35:958][270]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-12.38.35:958][270]AssetCheck: /Game/Blueprints/BP_Pickup_BonusHealth Validating asset
+[2025.08.17-12.38.54:342][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2025.08.17-12.38.54:844][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-12.38.55:047][523]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pickup_BonusHealth] ([2] browsable assets)...
+[2025.08.17-12.38.55:125][523]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pickup_BonusHealth.BP_Pickup_BonusHealth]
+[2025.08.17-12.38.55:125][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pickup_BonusHealth]
+[2025.08.17-12.38.55:133][523]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pickup_BonusHealth
+[2025.08.17-12.38.55:135][523]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Pickup_BonusHealth5D5FF22C4BCF1E8711CC2BA598DFC66A.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Pickup_BonusHealth.uasset'
+[2025.08.17-12.38.55:174][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 330.029 ms (total: 14.4 sec)
+[2025.08.17-12.38.55:333][523]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-12.38.55:333][523]LogContentValidation: Enabled validators:
+[2025.08.17-12.38.55:333][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-12.38.55:333][523]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-12.38.55:333][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-12.38.55:333][523]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-12.38.55:333][523]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-12.38.55:333][523]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-12.38.55:334][523]AssetCheck: /Game/Blueprints/BP_Pickup_BonusHealth Validating asset
+[2025.08.17-12.40.00:536][ 30]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth_C
+[2025.08.17-12.40.00:536][ 30]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth_C
+[2025.08.17-12.40.00:542][ 30]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth as actor: BP_Pickup_BasicHealth_C /Game/Maps/NewMap.NewMap:PersistentLevel.BP_Pickup_BasicHealth_C_0
+[2025.08.17-12.40.00:547][ 30]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth as actor: BP_Pickup_BasicHealth_C /Game/Maps/NewMap.NewMap:PersistentLevel.BP_Pickup_BasicHealth_C_0
+[2025.08.17-12.40.02:771][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2025.08.17-12.40.02:835][133]LogEditorActor: Deleted 0 Actors (0.121 secs)
+[2025.08.17-12.40.02:850][133]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth_C
+[2025.08.17-12.40.02:850][133]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth_C
+[2025.08.17-12.40.02:860][133]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth as actor: BP_Pickup_BasicHealth_C /Game/Maps/NewMap.NewMap:PersistentLevel.BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208
+[2025.08.17-12.40.02:863][133]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth as actor: BP_Pickup_BasicHealth_C /Game/Maps/NewMap.NewMap:PersistentLevel.BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208
+[2025.08.17-12.40.09:970][440]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Pickup_BonusHealth.BP_Pickup_BonusHealth_C
+[2025.08.17-12.40.09:970][440]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Pickup_BonusHealth.BP_Pickup_BonusHealth_C
+[2025.08.17-12.40.09:975][440]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Pickup_BonusHealth.BP_Pickup_BonusHealth as actor: BP_Pickup_BonusHealth_C /Game/Maps/NewMap.NewMap:PersistentLevel.BP_Pickup_BonusHealth_C_0
+[2025.08.17-12.40.09:978][440]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Pickup_BonusHealth.BP_Pickup_BonusHealth as actor: BP_Pickup_BonusHealth_C /Game/Maps/NewMap.NewMap:PersistentLevel.BP_Pickup_BonusHealth_C_0
+[2025.08.17-12.40.11:011][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2025.08.17-12.40.11:016][477]LogEditorActor: Deleted 0 Actors (0.063 secs)
+[2025.08.17-12.40.11:057][477]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Pickup_BonusHealth.BP_Pickup_BonusHealth_C
+[2025.08.17-12.40.11:057][477]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Pickup_BonusHealth.BP_Pickup_BonusHealth_C
+[2025.08.17-12.40.11:064][477]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Pickup_BonusHealth.BP_Pickup_BonusHealth as actor: BP_Pickup_BonusHealth_C /Game/Maps/NewMap.NewMap:PersistentLevel.BP_Pickup_BonusHealth_C_UAID_50EBF692FDA73A8602_1279887209
+[2025.08.17-12.40.11:067][477]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Pickup_BonusHealth.BP_Pickup_BonusHealth as actor: BP_Pickup_BonusHealth_C /Game/Maps/NewMap.NewMap:PersistentLevel.BP_Pickup_BonusHealth_C_UAID_50EBF692FDA73A8602_1279887209
+[2025.08.17-12.40.20:606][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-12.40.20:820][930]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/4X/L3NL3XR4SS1Z1O21QSNNP7
+[2025.08.17-12.40.20:820][930]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/L3NL3XR4SS1Z1O21QSNNP72DB0EE5A4D7827D8771945AF87313FF3.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/__ExternalActors__/Maps/NewMap/B/4X/L3NL3XR4SS1Z1O21QSNNP7.uasset'
+[2025.08.17-12.40.20:829][930]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/G9/46CHLGR4K2CNGN4I3WALLD
+[2025.08.17-12.40.20:829][930]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/46CHLGR4K2CNGN4I3WALLDC663DB0E4F2918D912478A9A77BE82BC.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/__ExternalActors__/Maps/NewMap/B/G9/46CHLGR4K2CNGN4I3WALLD.uasset'
+[2025.08.17-12.40.20:891][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 284.865 ms (total: 14.7 sec)
+[2025.08.17-12.40.21:129][930]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.17-12.40.21:129][930]LogContentValidation: Enabled validators:
+[2025.08.17-12.40.21:129][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-12.40.21:129][930]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-12.40.21:129][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-12.40.21:129][930]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-12.40.21:129][930]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-12.40.21:129][930]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-12.40.21:129][930]AssetCheck: /Game/Maps/NewMap Validating asset
+[2025.08.17-12.40.22:106][967]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.17-12.40.22:130][967]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.17-12.40.22:130][967]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.17-12.40.22:135][967]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 4.574 ms (total: 324.567 ms)
+[2025.08.17-12.40.22:139][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.17-12.40.22:140][967]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-12.40.22:145][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004563s)
+[2025.08.17-12.40.22:145][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004649s)
+[2025.08.17-12.40.22:205][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2025.08.17-12.40.22:210][967]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-12.40.22:213][967]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.17-12.40.22:213][967]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-12.40.22:213][967]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.17-12.40.22:213][967]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.17-12.40.22:215][967]LogWorldPartition: Display: WorldPartition initialize took 1.937 ms (total: 1.46 sec)
+[2025.08.17-12.40.22:216][967]LogPlayLevel: PIE: World Init took: (0.005265s)
+[2025.08.17-12.40.22:217][967]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.08.17-12.40.22:217][967]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.17-12.40.22:217][967]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.17-12.40.22:217][967]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.17-12.40.22:217][967]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.17-12.40.22:217][967]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.17-12.40.22:217][967]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.17-12.40.22:217][967]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.17-12.40.22:217][967]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.17-12.40.22:217][967]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.17-12.40.22:217][967]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.17-12.40.22:217][967]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.17-12.40.22:222][967]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.17-12.40.22:262][967]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2025.08.17-12.40.22:263][967]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.17-12.40.22:263][967]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.17-12.40.22:263][967]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.17-12.40.22:264][967]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.08.17-12.40.22:264][967]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.08.17-12.40.22:270][967]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.08.17-12.40.22:270][967]LogInit: FAudioDevice initialized with ID 29.
+[2025.08.17-12.40.22:270][967]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.08.17-12.40.22:270][967]LogAudio: Display: Audio Device (ID: 29) registered with world 'NewMap'.
+[2025.08.17-12.40.22:270][967]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.08.17-12.40.22:396][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-12.40.22:397][967]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-12.40.22:400][967]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2025.08.17-22.40.22
+[2025.08.17-12.40.22:400][967]LogWorld: Bringing up level for play took: 0.001693
+[2025.08.17-12.40.22:406][967]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.08.17-12.40.22:411][967]LogStreaming: Display: FlushAsyncLoading(1529,1524,1525,1526,1527,1528,1521,1522,1523): 9 QueuedPackages, 0 AsyncPackages
+[2025.08.17-12.40.22:444][967]PIE: Server logged in
+[2025.08.17-12.40.22:447][967]PIE: Play in editor total start time 0.318 seconds.
+[2025.08.17-12.40.41:965][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-12.40.41:966][505]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-12.40.41:966][505]LogSlate: Window 'Prototype_Build Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.17-12.40.42:028][505]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.40.42:029][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.40.42:030][505]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.17-12.40.42:040][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.17-12.40.42:050][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.40.42:116][505]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-12.40.42:116][505]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.08.17-12.40.42:117][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.08.17-12.40.42:121][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.08.17-12.40.42:136][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.08.17-12.40.42:266][506]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.08.17-12.41.23:149][806]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.41.23:149][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.41.23:995][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2025.08.17-12.41.25:628][854]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.17-12.41.25:628][854]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.41.25:628][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.41.26:079][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2025.08.17-12.41.29:540][948]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.41.29:542][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.41.29:563][948]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.41.29:563][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.41.29:898][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2025.08.17-12.42.33:552][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.08.17-12.42.33:561][156]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/NewMap' took 0.061
+[2025.08.17-12.42.33:561][156]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player_BP] ([2] browsable assets)...
+[2025.08.17-12.42.33:659][156]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player_BP.Player_BP]
+[2025.08.17-12.42.33:659][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player_BP]
+[2025.08.17-12.42.33:708][156]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player_BP_Auto3
+[2025.08.17-12.42.33:708][156]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Player_BP_Auto3A65D2B5642270B77EB8D0485B58E53CD.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/Blueprints/Player_BP_Auto3.uasset'
+[2025.08.17-12.42.33:710][156]LogFileHelpers: Auto-saving content packages took 0.149
+[2025.08.17-12.43.05:260][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25171.367188
+[2025.08.17-12.43.05:706][107]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.17-12.43.05:706][107]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25171.783203, Update Interval: 328.208252
+[2025.08.17-12.46.32:926][840]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.08.17-12.46.53:956][724]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.08.17-12.49.21:134][548]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25547.353516
+[2025.08.17-12.49.21:435][565]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.17-12.49.21:435][565]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25547.640625, Update Interval: 345.424347
+[2025.08.17-12.49.53:835][793]LogBlueprint: Error: [AssetLog] C:\Users\ethan\OneDrive\Documents\Unreal Projects\test\Prototype_Build\Content\Blueprints\Player_BP.uasset: [Compiler] This blueprint (self) is not a myHUD_C, therefore ' Target ' must have a connection.
+[2025.08.17-12.49.53:850][793]LogStreaming: Display: FlushAsyncLoading(1530): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.17-12.49.53:946][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2025.08.17-12.52.30:964][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2025.08.17-12.52.32:448][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-12.52.32:701][483]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player_BP] ([2] browsable assets)...
+[2025.08.17-12.52.32:793][483]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player_BP.Player_BP]
+[2025.08.17-12.52.32:793][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player_BP]
+[2025.08.17-12.52.32:793][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2025.08.17-12.52.32:861][483]LogSavePackage: Moving output files for package: /Game/Blueprints/Player_BP
+[2025.08.17-12.52.32:862][483]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Player_BP2CF6B66F40E6EAA06D827A909EFA7FCC.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/Player_BP.uasset'
+[2025.08.17-12.52.32:907][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 457.969 ms (total: 15.2 sec)
+[2025.08.17-12.52.33:114][483]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-12.52.33:114][483]LogContentValidation: Enabled validators:
+[2025.08.17-12.52.33:114][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-12.52.33:114][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-12.52.33:114][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-12.52.33:114][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-12.52.33:114][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-12.52.33:114][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-12.52.33:114][483]AssetCheck: /Game/Blueprints/Player_BP Validating asset
+[2025.08.17-12.52.34:021][528]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.17-12.52.34:044][528]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.17-12.52.34:044][528]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.17-12.52.34:047][528]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 3.803 ms (total: 328.371 ms)
+[2025.08.17-12.52.34:048][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.17-12.52.34:048][528]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-12.52.34:053][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003906s)
+[2025.08.17-12.52.34:053][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.003986s)
+[2025.08.17-12.52.34:096][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2025.08.17-12.52.34:107][528]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-12.52.34:109][528]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.17-12.52.34:110][528]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-12.52.34:110][528]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.17-12.52.34:110][528]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.17-12.52.34:111][528]LogWorldPartition: Display: WorldPartition initialize took 1.852 ms (total: 1.47 sec)
+[2025.08.17-12.52.34:111][528]LogPlayLevel: PIE: World Init took: (0.005040s)
+[2025.08.17-12.52.34:114][528]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.08.17-12.52.34:114][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.17-12.52.34:114][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.17-12.52.34:114][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.17-12.52.34:114][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.17-12.52.34:114][528]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.17-12.52.34:114][528]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.17-12.52.34:114][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.17-12.52.34:114][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.17-12.52.34:114][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.17-12.52.34:114][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.17-12.52.34:114][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.17-12.52.34:119][528]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.17-12.52.34:163][528]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2025.08.17-12.52.34:164][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.17-12.52.34:164][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.17-12.52.34:164][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.17-12.52.34:164][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.08.17-12.52.34:165][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.08.17-12.52.34:170][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.08.17-12.52.34:170][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.08.17-12.52.34:170][528]LogInit: FAudioDevice initialized with ID 30.
+[2025.08.17-12.52.34:170][528]LogAudio: Display: Audio Device (ID: 30) registered with world 'NewMap'.
+[2025.08.17-12.52.34:170][528]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.08.17-12.52.34:398][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-12.52.34:399][528]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-12.52.34:401][528]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2025.08.17-22.52.34
+[2025.08.17-12.52.34:402][528]LogWorld: Bringing up level for play took: 0.002443
+[2025.08.17-12.52.34:408][528]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.08.17-12.52.34:415][528]LogStreaming: Display: FlushAsyncLoading(1539,1534,1535,1536,1537,1538,1531,1532,1533): 9 QueuedPackages, 0 AsyncPackages
+[2025.08.17-12.52.34:446][528]PIE: Server logged in
+[2025.08.17-12.52.34:454][528]PIE: Play in editor total start time 0.41 seconds.
+[2025.08.17-12.52.51:447][  8]LogScript: Warning: Accessed None trying to read property ShootingSound
+	Player_BP_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.Player_BP_C_0
+	Function /Game/Blueprints/Player_BP.Player_BP_C:ExecuteUbergraph_Player_BP:0ADB
+[2025.08.17-12.52.51:447][  8]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ShootingSound". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph Player BP Blueprint:  Player_BP
+[2025.08.17-12.52.52:412][ 37]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/NewMap"
+[2025.08.17-12.52.52:412][ 37]LogNet: Browse: /Game/Maps/NewMap
+[2025.08.17-12.52.52:412][ 37]LogLoad: LoadMap: /Game/Maps/NewMap
+[2025.08.17-12.52.52:412][ 37]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-12.52.52:415][ 37]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.52.52:416][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.52.52:416][ 37]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.17-12.52.52:531][ 37]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-12.52.52:537][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2025.08.17-12.52.52:543][ 37]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-12.52.52:548][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003874s)
+[2025.08.17-12.52.52:548][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.003981s)
+[2025.08.17-12.52.52:548][ 37]LogAudio: Display: Audio Device (ID: 30) registered with world 'NewMap'.
+[2025.08.17-12.52.52:548][ 37]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-12.52.52:550][ 37]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.17-12.52.52:550][ 37]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-12.52.52:550][ 37]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.17-12.52.52:551][ 37]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.17-12.52.52:552][ 37]LogWorldPartition: Display: WorldPartition initialize took 1.815 ms (total: 1.47 sec)
+[2025.08.17-12.52.52:552][ 37]LogPlayLevel: PIE: World Init took: (0.004620s)
+[2025.08.17-12.52.52:552][ 37]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-12.52.52:553][ 37]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2025.08.17-22.52.52
+[2025.08.17-12.52.52:553][ 37]LogWorld: Bringing up level for play took: 0.001216
+[2025.08.17-12.52.52:557][ 37]LogStreaming: Display: FlushAsyncLoading(1548,1543,1544,1545,1546,1547,1540,1541,1542): 9 QueuedPackages, 0 AsyncPackages
+[2025.08.17-12.52.52:575][ 37]LogLoad: Took 0.162962 seconds to LoadMap(/Game/Maps/UEDPIE_0_NewMap)
+[2025.08.17-12.52.52:575][ 37]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-12.53.11:996][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-12.53.11:996][590]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-12.53.11:997][590]LogSlate: Window 'Prototype_Build Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.17-12.53.12:083][590]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-12.53.12:083][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.53.12:085][590]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.17-12.53.12:091][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.17-12.53.12:100][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-12.53.12:169][590]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.08.17-12.53.12:169][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.08.17-12.53.12:173][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.08.17-12.53.12:189][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.08.17-12.53.12:620][591]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.08.17-12.53.13:903][616]LogSlate: Window 'Message Log' being destroyed
+[2025.08.17-12.53.14:050][616]LogSlate: Window 'Message Log' being destroyed
+[2025.08.17-12.55.59:165][241]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25945.373047
+[2025.08.17-12.55.59:851][244]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.17-12.55.59:851][244]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25946.042969, Update Interval: 332.945343
+[2025.08.17-12.56.36:876][555]LogEditorTransaction: Undo Rename Node
+[2025.08.17-12.56.37:728][569]LogEditorTransaction: Undo Add Node
+[2025.08.17-12.58.29:021][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2025.08.17-12.58.29:025][103]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/NewMap' took 0.050
+[2025.08.17-12.58.29:025][103]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Base_Pickup] ([2] browsable assets)...
+[2025.08.17-12.58.29:144][103]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup]
+[2025.08.17-12.58.29:144][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Base_Pickup]
+[2025.08.17-12.58.29:162][103]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Base_Pickup_Auto4
+[2025.08.17-12.58.29:162][103]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Base_Pickup_Auto4B10757964026FC043C24B98E905B6B01.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/Blueprints/BP_Base_Pickup_Auto4.uasset'
+[2025.08.17-12.58.29:164][103]LogFileHelpers: Auto-saving content packages took 0.139
+[2025.08.17-13.01.32:776][372]LogEditorTransaction: Undo Move Nodes
+[2025.08.17-13.01.33:719][384]LogEditorTransaction: Undo Add Node
+[2025.08.17-13.02.32:533][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2025.08.17-13.02.32:852][946]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26339.218750
+[2025.08.17-13.02.33:276][961]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.17-13.02.33:276][961]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26339.605469, Update Interval: 323.293549
+[2025.08.17-13.02.33:482][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-13.02.33:736][969]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Base_Pickup] ([2] browsable assets)...
+[2025.08.17-13.02.33:824][969]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup]
+[2025.08.17-13.02.33:824][969]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Base_Pickup]
+[2025.08.17-13.02.33:824][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Base_Pickup" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Pickup.uasset" SILENT=true
+[2025.08.17-13.02.33:843][969]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Base_Pickup
+[2025.08.17-13.02.33:843][969]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Base_Pickup87E0BAAC49210534EC2852AF3FDDCFA0.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Pickup.uasset'
+[2025.08.17-13.02.33:884][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 402.359 ms (total: 15.6 sec)
+[2025.08.17-13.02.34:081][969]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-13.02.34:081][969]LogContentValidation: Enabled validators:
+[2025.08.17-13.02.34:081][969]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-13.02.34:081][969]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-13.02.34:081][969]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-13.02.34:081][969]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-13.02.34:081][969]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-13.02.34:081][969]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-13.02.34:081][969]AssetCheck: /Game/Blueprints/BP_Base_Pickup Validating asset
+[2025.08.17-13.02.34:714][998]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.17-13.02.34:737][998]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.17-13.02.34:737][998]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.17-13.02.34:741][998]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 3.506 ms (total: 331.877 ms)
+[2025.08.17-13.02.34:742][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.17-13.02.34:742][998]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-13.02.34:748][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004561s)
+[2025.08.17-13.02.34:748][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004680s)
+[2025.08.17-13.02.34:788][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2025.08.17-13.02.34:795][998]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-13.02.34:798][998]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.17-13.02.34:798][998]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-13.02.34:798][998]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.17-13.02.34:798][998]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.17-13.02.34:800][998]LogWorldPartition: Display: WorldPartition initialize took 1.866 ms (total: 1.47 sec)
+[2025.08.17-13.02.34:801][998]LogPlayLevel: PIE: World Init took: (0.005253s)
+[2025.08.17-13.02.34:802][998]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.08.17-13.02.34:802][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.17-13.02.34:802][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.17-13.02.34:802][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.17-13.02.34:802][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.17-13.02.34:802][998]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.17-13.02.34:802][998]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.17-13.02.34:802][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.17-13.02.34:802][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.17-13.02.34:802][998]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.17-13.02.34:802][998]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.17-13.02.34:802][998]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.17-13.02.34:806][998]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.17-13.02.34:850][998]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2025.08.17-13.02.34:851][998]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.17-13.02.34:851][998]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.17-13.02.34:851][998]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.17-13.02.34:852][998]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.08.17-13.02.34:852][998]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.08.17-13.02.34:858][998]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.08.17-13.02.34:858][998]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.08.17-13.02.34:858][998]LogInit: FAudioDevice initialized with ID 31.
+[2025.08.17-13.02.34:858][998]LogAudio: Display: Audio Device (ID: 31) registered with world 'NewMap'.
+[2025.08.17-13.02.34:858][998]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.08.17-13.02.35:012][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-13.02.35:012][998]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-13.02.35:014][998]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.08.17-23.02.35
+[2025.08.17-13.02.35:015][998]LogWorld: Bringing up level for play took: 0.002244
+[2025.08.17-13.02.35:021][998]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.08.17-13.02.35:025][998]LogStreaming: Display: FlushAsyncLoading(1557,1552,1553,1554,1555,1556,1549,1550,1551): 9 QueuedPackages, 0 AsyncPackages
+[2025.08.17-13.02.35:083][998]PIE: Server logged in
+[2025.08.17-13.02.35:085][998]PIE: Play in editor total start time 0.347 seconds.
+[2025.08.17-13.02.38:950][105]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.02.41:526][176]LogBlueprintUserMessages: [BP_Base_Pickup_C_UAID_50EBF692FDA7378602_1898608679] Health is full
+[2025.08.17-13.02.45:725][296]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.02.51:310][458]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.02.54:860][558]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.02.59:250][683]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.03.00:984][731]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.03.01:719][753]LogDerivedDataCache: C:/Users/ethan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.17-13.03.01:852][757]LogBlueprintUserMessages: [BP_Base_Pickup_C_UAID_50EBF692FDA7378602_1898608679] Health is full
+[2025.08.17-13.03.03:150][796]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.03.03:184][797]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.03.06:069][878]LogBlueprintUserMessages: [BP_Base_Pickup_C_UAID_50EBF692FDA7378602_1898608679] Health is full
+[2025.08.17-13.03.06:336][886]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.03.07:438][919]LogBlueprintUserMessages: [BP_Pickup_BonusHealth_C_UAID_50EBF692FDA73A8602_1279887209] Health is full
+[2025.08.17-13.03.09:706][983]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.03.20:081][282]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.03.24:100][397]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.03.28:645][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-13.03.28:645][518]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-13.03.28:646][518]LogSlate: Window 'Prototype_Build Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.17-13.03.28:731][518]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-13.03.28:733][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.03.28:734][518]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.17-13.03.28:741][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.17-13.03.28:754][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.03.28:803][518]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-13.03.28:803][518]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.08.17-13.03.28:803][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.08.17-13.03.28:807][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.08.17-13.03.28:827][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2025.08.17-13.03.28:933][519]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.08.17-13.03.33:880][815]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.17-13.03.33:908][815]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.17-13.03.33:908][815]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.17-13.03.33:912][815]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 4.152 ms (total: 336.029 ms)
+[2025.08.17-13.03.33:912][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.17-13.03.33:913][815]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-13.03.33:918][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003922s)
+[2025.08.17-13.03.33:918][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.003995s)
+[2025.08.17-13.03.33:968][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2025.08.17-13.03.33:973][815]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-13.03.33:975][815]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.17-13.03.33:976][815]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-13.03.33:976][815]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.17-13.03.33:976][815]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.17-13.03.33:977][815]LogWorldPartition: Display: WorldPartition initialize took 1.890 ms (total: 1.47 sec)
+[2025.08.17-13.03.33:977][815]LogPlayLevel: PIE: World Init took: (0.004903s)
+[2025.08.17-13.03.33:979][815]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2025.08.17-13.03.33:979][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.17-13.03.33:979][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.17-13.03.33:979][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.17-13.03.33:979][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.17-13.03.33:979][815]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.17-13.03.33:979][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.17-13.03.33:979][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.17-13.03.33:979][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.17-13.03.33:979][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.17-13.03.33:979][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.17-13.03.33:979][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.17-13.03.33:984][815]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.17-13.03.34:026][815]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2025.08.17-13.03.34:026][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.17-13.03.34:026][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.17-13.03.34:026][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.17-13.03.34:027][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2025.08.17-13.03.34:027][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2025.08.17-13.03.34:034][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2025.08.17-13.03.34:034][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2025.08.17-13.03.34:034][815]LogInit: FAudioDevice initialized with ID 32.
+[2025.08.17-13.03.34:034][815]LogAudio: Display: Audio Device (ID: 32) registered with world 'NewMap'.
+[2025.08.17-13.03.34:034][815]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2025.08.17-13.03.34:166][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-13.03.34:166][815]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-13.03.34:168][815]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.08.17-23.03.34
+[2025.08.17-13.03.34:168][815]LogWorld: Bringing up level for play took: 0.001455
+[2025.08.17-13.03.34:175][815]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2025.08.17-13.03.34:180][815]LogStreaming: Display: FlushAsyncLoading(1566,1561,1562,1563,1564,1565,1558,1559,1560): 9 QueuedPackages, 0 AsyncPackages
+[2025.08.17-13.03.34:206][815]PIE: Server logged in
+[2025.08.17-13.03.34:209][815]PIE: Play in editor total start time 0.301 seconds.
+[2025.08.17-13.03.36:179][867]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.03.42:540][ 50]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.03.47:737][196]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.03.51:339][300]LogBlueprintUserMessages: [BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208] Health is full
+[2025.08.17-13.03.51:825][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-13.03.51:825][312]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-13.03.51:827][312]LogSlate: Window 'Prototype_Build Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.17-13.03.51:909][312]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-13.03.51:910][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.03.51:910][312]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.17-13.03.51:918][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.17-13.03.51:928][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.03.51:978][312]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2025.08.17-13.03.51:978][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.08.17-13.03.51:982][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.08.17-13.03.51:999][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2025.08.17-13.03.52:100][313]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2025.08.17-13.07.31:831][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2025.08.17-13.07.32:746][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-13.07.32:962][ 51]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Base_Pickup] ([2] browsable assets)...
+[2025.08.17-13.07.33:056][ 51]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup]
+[2025.08.17-13.07.33:056][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Base_Pickup]
+[2025.08.17-13.07.33:056][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Base_Pickup" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Pickup.uasset" SILENT=true
+[2025.08.17-13.07.33:076][ 51]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Base_Pickup
+[2025.08.17-13.07.33:077][ 51]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Base_Pickup698F47E1485EBA50CA0F019FE6D899EA.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Pickup.uasset'
+[2025.08.17-13.07.33:123][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 378.202 ms (total: 16.0 sec)
+[2025.08.17-13.07.33:320][ 51]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-13.07.33:320][ 51]LogContentValidation: Enabled validators:
+[2025.08.17-13.07.33:320][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-13.07.33:320][ 51]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-13.07.33:320][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-13.07.33:320][ 51]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-13.07.33:320][ 51]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-13.07.33:320][ 51]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-13.07.33:321][ 51]AssetCheck: /Game/Blueprints/BP_Base_Pickup Validating asset
+[2025.08.17-13.08.26:161][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2025.08.17-13.08.27:006][136]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.17-13.08.27:032][136]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.17-13.08.27:033][136]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.17-13.08.27:037][136]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 4.343 ms (total: 340.372 ms)
+[2025.08.17-13.08.27:038][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.17-13.08.27:039][136]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-13.08.27:042][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004220s)
+[2025.08.17-13.08.27:043][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004291s)
+[2025.08.17-13.08.27:096][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.08.17-13.08.27:101][136]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-13.08.27:103][136]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.17-13.08.27:103][136]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-13.08.27:103][136]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.17-13.08.27:103][136]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.17-13.08.27:104][136]LogWorldPartition: Display: WorldPartition initialize took 1.448 ms (total: 1.47 sec)
+[2025.08.17-13.08.27:104][136]LogPlayLevel: PIE: World Init took: (0.004063s)
+[2025.08.17-13.08.27:107][136]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2025.08.17-13.08.27:107][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.17-13.08.27:107][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.17-13.08.27:107][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.17-13.08.27:107][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.17-13.08.27:107][136]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.17-13.08.27:107][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.17-13.08.27:107][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.17-13.08.27:107][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.17-13.08.27:107][136]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.17-13.08.27:107][136]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.17-13.08.27:107][136]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.17-13.08.27:111][136]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.17-13.08.27:143][136]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2025.08.17-13.08.27:145][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.17-13.08.27:145][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.17-13.08.27:145][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.17-13.08.27:146][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2025.08.17-13.08.27:146][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2025.08.17-13.08.27:149][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2025.08.17-13.08.27:149][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2025.08.17-13.08.27:149][136]LogInit: FAudioDevice initialized with ID 33.
+[2025.08.17-13.08.27:149][136]LogAudio: Display: Audio Device (ID: 33) registered with world 'NewMap'.
+[2025.08.17-13.08.27:150][136]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2025.08.17-13.08.27:309][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-13.08.27:309][136]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-13.08.27:312][136]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.08.17-23.08.27
+[2025.08.17-13.08.27:312][136]LogWorld: Bringing up level for play took: 0.001650
+[2025.08.17-13.08.27:318][136]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.08.17-13.08.27:324][136]LogStreaming: Display: FlushAsyncLoading(1575,1570,1571,1572,1573,1574,1567,1568,1569): 9 QueuedPackages, 0 AsyncPackages
+[2025.08.17-13.08.27:354][136]PIE: Server logged in
+[2025.08.17-13.08.27:356][136]PIE: Play in editor total start time 0.323 seconds.
+[2025.08.17-13.08.33:217][300]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26699.328125
+[2025.08.17-13.08.33:687][310]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.17-13.08.33:687][310]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26699.732422, Update Interval: 334.410217
+[2025.08.17-13.08.39:466][473]LogScript: Warning: Accessed None trying to read property LowHealthReminder
+	Player_BP_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.Player_BP_C_0
+	Function /Game/Blueprints/Player_BP.Player_BP_C:ExecuteUbergraph_Player_BP:0AB7
+[2025.08.17-13.08.39:466][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LowHealthReminder". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph Player BP Blueprint:  Player_BP
+[2025.08.17-13.08.39:466][473]LogScript: Warning: Accessed None trying to read property ShootingSound
+	Player_BP_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.Player_BP_C_0
+	Function /Game/Blueprints/Player_BP.Player_BP_C:ExecuteUbergraph_Player_BP:0ADB
+[2025.08.17-13.08.39:466][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ShootingSound". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph Player BP Blueprint:  Player_BP
+[2025.08.17-13.08.40:466][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-13.08.40:466][501]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-13.08.40:466][501]LogSlate: Window 'Prototype_Build Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.17-13.08.40:541][501]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-13.08.40:541][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.08.40:542][501]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.17-13.08.40:548][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.17-13.08.40:557][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.08.40:604][501]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-13.08.40:605][501]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2025.08.17-13.08.40:605][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.08.17-13.08.40:610][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.08.17-13.08.40:628][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2025.08.17-13.08.41:051][502]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.08.17-13.08.42:445][531]LogSlate: Window 'Message Log' being destroyed
+[2025.08.17-13.08.42:582][531]LogSlate: Window 'Message Log' being destroyed
+[2025.08.17-13.08.46:389][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.08.17-13.08.47:508][635]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.17-13.08.47:529][635]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.17-13.08.47:529][635]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.17-13.08.47:534][635]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 5.177 ms (total: 345.549 ms)
+[2025.08.17-13.08.47:536][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.17-13.08.47:536][635]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-13.08.47:541][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004549s)
+[2025.08.17-13.08.47:541][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004638s)
+[2025.08.17-13.08.47:585][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2025.08.17-13.08.47:591][635]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-13.08.47:594][635]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.17-13.08.47:594][635]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-13.08.47:594][635]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.17-13.08.47:594][635]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.17-13.08.47:596][635]LogWorldPartition: Display: WorldPartition initialize took 1.803 ms (total: 1.48 sec)
+[2025.08.17-13.08.47:596][635]LogPlayLevel: PIE: World Init took: (0.004772s)
+[2025.08.17-13.08.47:598][635]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2025.08.17-13.08.47:598][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.17-13.08.47:598][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.17-13.08.47:598][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.17-13.08.47:598][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.17-13.08.47:598][635]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.17-13.08.47:598][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.17-13.08.47:598][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.17-13.08.47:598][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.17-13.08.47:598][635]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.17-13.08.47:598][635]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.17-13.08.47:598][635]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.17-13.08.47:602][635]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.17-13.08.47:643][635]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2025.08.17-13.08.47:643][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.17-13.08.47:643][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.17-13.08.47:643][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.17-13.08.47:644][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2025.08.17-13.08.47:644][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2025.08.17-13.08.47:650][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2025.08.17-13.08.47:650][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2025.08.17-13.08.47:650][635]LogInit: FAudioDevice initialized with ID 34.
+[2025.08.17-13.08.47:650][635]LogAudio: Display: Audio Device (ID: 34) registered with world 'NewMap'.
+[2025.08.17-13.08.47:650][635]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2025.08.17-13.08.47:795][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-13.08.47:796][635]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-13.08.47:797][635]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.08.17-23.08.47
+[2025.08.17-13.08.47:799][635]LogWorld: Bringing up level for play took: 0.001451
+[2025.08.17-13.08.47:804][635]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2025.08.17-13.08.47:809][635]LogStreaming: Display: FlushAsyncLoading(1584,1579,1580,1581,1582,1583,1576,1577,1578): 9 QueuedPackages, 0 AsyncPackages
+[2025.08.17-13.08.47:836][635]PIE: Server logged in
+[2025.08.17-13.08.47:839][635]PIE: Play in editor total start time 0.309 seconds.
+[2025.08.17-13.09.00:215][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-13.09.00:215][884]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-13.09.00:215][884]LogSlate: Window 'Prototype_Build Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.17-13.09.00:302][884]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-13.09.00:303][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.09.00:303][884]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.17-13.09.00:310][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.17-13.09.00:320][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.09.00:369][884]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-13.09.00:369][884]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2025.08.17-13.09.00:369][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.08.17-13.09.00:373][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.08.17-13.09.00:388][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2025.08.17-13.09.00:490][885]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2025.08.17-13.09.42:370][820]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_PlayerUI.WBP_PlayerUI
+[2025.08.17-13.09.42:370][820]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.08.17-13.09.42:417][820]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2025.08.17-13.10.37:209][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.08.17-13.10.37:213][882]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/NewMap' took 0.130
+[2025.08.17-13.10.37:214][882]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Base_Pickup] ([2] browsable assets)...
+[2025.08.17-13.10.37:329][882]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup]
+[2025.08.17-13.10.37:329][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Base_Pickup]
+[2025.08.17-13.10.37:348][882]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Base_Pickup_Auto5
+[2025.08.17-13.10.37:348][882]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Base_Pickup_Auto50E332DF247FDE4E4BCCE6AA0C1F8C43D.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/Blueprints/BP_Base_Pickup_Auto5.uasset'
+[2025.08.17-13.10.37:350][882]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pickup_BasicHealth] ([2] browsable assets)...
+[2025.08.17-13.10.37:374][882]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth]
+[2025.08.17-13.10.37:375][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pickup_BasicHealth]
+[2025.08.17-13.10.37:382][882]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Pickup_BasicHealth_Auto5
+[2025.08.17-13.10.37:382][882]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Pickup_BasicHealth_Auto58CF550CD4513B426FC770093A48CE21A.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/Autosaves/Game/Blueprints/BP_Pickup_BasicHealth_Auto5.uasset'
+[2025.08.17-13.10.37:383][882]LogFileHelpers: Auto-saving content packages took 0.169
+[2025.08.17-13.13.13:019][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-13.13.13:254][737]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_PlayerUI] ([2] browsable assets)...
+[2025.08.17-13.13.13:254][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_PlayerUI]
+[2025.08.17-13.13.13:254][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_PlayerUI" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/UI/WBP_PlayerUI.uasset" SILENT=true
+[2025.08.17-13.13.13:281][737]LogSavePackage: Moving output files for package: /Game/UI/WBP_PlayerUI
+[2025.08.17-13.13.13:282][737]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/WBP_PlayerUIB1DF3ED542EC188F62C9659EA676E672.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/UI/WBP_PlayerUI.uasset'
+[2025.08.17-13.13.13:327][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 308.851 ms (total: 16.3 sec)
+[2025.08.17-13.13.13:528][737]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-13.13.13:528][737]LogContentValidation: Enabled validators:
+[2025.08.17-13.13.13:528][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-13.13.13:528][737]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-13.13.13:528][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-13.13.13:528][737]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-13.13.13:528][737]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-13.13.13:528][737]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-13.13.13:533][737]AssetCheck: /Game/UI/WBP_PlayerUI Validating asset
+[2025.08.17-13.13.59:977][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-13.14.00:221][114]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Pickup_BasicHealth] ([2] browsable assets)...
+[2025.08.17-13.14.00:222][114]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pickup_BasicHealth]
+[2025.08.17-13.14.00:232][114]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pickup_BasicHealth
+[2025.08.17-13.14.00:233][114]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Pickup_BasicHealth8B6959D24C1FF229BD233CBB69723E77.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Pickup_BasicHealth.uasset'
+[2025.08.17-13.14.00:292][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 316.334 ms (total: 16.6 sec)
+[2025.08.17-13.14.00:520][114]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-13.14.00:520][114]LogContentValidation: Enabled validators:
+[2025.08.17-13.14.00:520][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-13.14.00:520][114]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-13.14.00:520][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-13.14.00:520][114]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-13.14.00:520][114]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-13.14.00:520][114]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-13.14.00:523][114]AssetCheck: /Game/Blueprints/BP_Pickup_BasicHealth Validating asset
+[2025.08.17-13.14.01:653][160]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.17-13.14.01:653][160]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-13.14.01:655][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.14.02:055][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2025.08.17-13.14.04:781][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-13.14.05:031][304]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pickup_BonusHealth] ([2] browsable assets)...
+[2025.08.17-13.14.05:126][304]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pickup_BonusHealth.BP_Pickup_BonusHealth]
+[2025.08.17-13.14.05:126][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pickup_BonusHealth]
+[2025.08.17-13.14.05:137][304]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pickup_BonusHealth
+[2025.08.17-13.14.05:138][304]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Pickup_BonusHealth7F19052E486FFF9E39589099127C931C.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Pickup_BonusHealth.uasset'
+[2025.08.17-13.14.05:181][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 398.922 ms (total: 17.0 sec)
+[2025.08.17-13.14.05:380][304]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-13.14.05:381][304]LogContentValidation: Enabled validators:
+[2025.08.17-13.14.05:381][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-13.14.05:381][304]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-13.14.05:381][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-13.14.05:381][304]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-13.14.05:381][304]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-13.14.05:381][304]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-13.14.05:381][304]AssetCheck: /Game/Blueprints/BP_Pickup_BonusHealth Validating asset
+[2025.08.17-13.14.06:360][344]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.17-13.14.06:360][344]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-13.14.06:360][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.14.06:537][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2025.08.17-13.15.02:841][503]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27089.017578
+[2025.08.17-13.15.03:191][518]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.17-13.15.03:192][518]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27089.332031, Update Interval: 336.428101
+[2025.08.17-13.19.40:068][253]LogBlueprint: Warning: [AssetLog] C:\Users\ethan\OneDrive\Documents\Unreal Projects\test\Prototype_Build\Content\Blueprints\BP_Base_Pickup.uasset: [Compiler] Could not find a variable named "Health" in '/Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup_C'.
+Make sure '/Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup_C' has been compiled for  Get Health
+[2025.08.17-13.19.40:068][253]LogBlueprint: Warning: [AssetLog] C:\Users\ethan\OneDrive\Documents\Unreal Projects\test\Prototype_Build\Content\Blueprints\BP_Base_Pickup.uasset: [Compiler] Could not find a variable named "MaxHealth" in '/Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup_C'.
+Make sure '/Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup_C' has been compiled for  Get MaxHealth
+[2025.08.17-13.19.40:071][253]LogBlueprint: Error: [AssetLog] C:\Users\ethan\OneDrive\Documents\Unreal Projects\test\Prototype_Build\Content\Blueprints\BP_Base_Pickup.uasset: [Compiler] This blueprint (self) is not a myHUD_C, therefore ' Target ' must have a connection.
+[2025.08.17-13.19.40:073][253]LogBlueprint: Error: [AssetLog] C:\Users\ethan\OneDrive\Documents\Unreal Projects\test\Prototype_Build\Content\Blueprints\BP_Base_Pickup.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To myPlayerController  to imply a specific type.
+[2025.08.17-13.19.40:075][253]LogBlueprint: Error: [AssetLog] C:\Users\ethan\OneDrive\Documents\Unreal Projects\test\Prototype_Build\Content\Blueprints\BP_Base_Pickup.uasset: [Compiler] The property associated with  Health  could not be found in '/Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup_C'
+[2025.08.17-13.19.40:076][253]LogBlueprint: Error: [AssetLog] C:\Users\ethan\OneDrive\Documents\Unreal Projects\test\Prototype_Build\Content\Blueprints\BP_Base_Pickup.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.08.17-13.19.40:076][253]LogBlueprint: Error: [AssetLog] C:\Users\ethan\OneDrive\Documents\Unreal Projects\test\Prototype_Build\Content\Blueprints\BP_Base_Pickup.uasset: [Compiler] The property associated with  Max Health  could not be found in '/Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup_C'
+[2025.08.17-13.19.40:201][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2025.08.17-13.19.49:819][621]LogBlueprint: Error: [AssetLog] C:\Users\ethan\OneDrive\Documents\Unreal Projects\test\Prototype_Build\Content\Blueprints\BP_Base_Pickup.uasset: [Compiler] This blueprint (self) is not a myHUD_C, therefore ' Target ' must have a connection.
+[2025.08.17-13.19.49:819][621]LogBlueprint: Error: [AssetLog] C:\Users\ethan\OneDrive\Documents\Unreal Projects\test\Prototype_Build\Content\Blueprints\BP_Base_Pickup.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To myPlayerController  to imply a specific type.
+[2025.08.17-13.19.49:822][621]LogBlueprint: Error: [AssetLog] C:\Users\ethan\OneDrive\Documents\Unreal Projects\test\Prototype_Build\Content\Blueprints\BP_Base_Pickup.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.08.17-13.19.49:948][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2025.08.17-13.20.17:164][837]LogBlueprint: Error: [AssetLog] C:\Users\ethan\OneDrive\Documents\Unreal Projects\test\Prototype_Build\Content\Blueprints\BP_Base_Pickup.uasset: [Compiler] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2025.08.17-13.20.17:165][837]LogBlueprint: Error: [AssetLog] C:\Users\ethan\OneDrive\Documents\Unreal Projects\test\Prototype_Build\Content\Blueprints\BP_Base_Pickup.uasset: [Compiler] This blueprint (self) is not a myHUD_C, therefore ' Target ' must have a connection.
+[2025.08.17-13.20.17:285][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2025.08.17-13.20.38:895][703]LogBlueprint: Error: [AssetLog] C:\Users\ethan\OneDrive\Documents\Unreal Projects\test\Prototype_Build\Content\Blueprints\BP_Base_Pickup.uasset: [Compiler] This blueprint (self) is not a myHUD_C, therefore ' Target ' must have a connection.
+[2025.08.17-13.20.38:999][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.08.17-13.20.58:542][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.08.17-13.20.59:906][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-13.21.00:142][690]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Base_Pickup] ([2] browsable assets)...
+[2025.08.17-13.21.00:245][690]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup]
+[2025.08.17-13.21.00:245][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Base_Pickup]
+[2025.08.17-13.21.00:245][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Base_Pickup" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Pickup.uasset" SILENT=true
+[2025.08.17-13.21.00:269][690]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Base_Pickup
+[2025.08.17-13.21.00:270][690]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Base_Pickup0A859D1745BDE9872DFCFC9CDBF590E2.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Pickup.uasset'
+[2025.08.17-13.21.00:309][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 403.388 ms (total: 17.4 sec)
+[2025.08.17-13.21.00:507][690]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-13.21.00:507][690]LogContentValidation: Enabled validators:
+[2025.08.17-13.21.00:507][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-13.21.00:507][690]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-13.21.00:507][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-13.21.00:507][690]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-13.21.00:507][690]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-13.21.00:507][690]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-13.21.00:507][690]AssetCheck: /Game/Blueprints/BP_Base_Pickup Validating asset
+[2025.08.17-13.21.01:101][710]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.17-13.21.01:125][710]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.17-13.21.01:125][710]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.08.17-13.21.01:130][710]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 4.277 ms (total: 349.826 ms)
+[2025.08.17-13.21.01:130][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.17-13.21.01:131][710]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-13.21.01:136][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004283s)
+[2025.08.17-13.21.01:136][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004370s)
+[2025.08.17-13.21.01:180][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2025.08.17-13.21.01:186][710]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.17-13.21.01:189][710]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.17-13.21.01:189][710]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.17-13.21.01:189][710]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.17-13.21.01:189][710]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.17-13.21.01:191][710]LogWorldPartition: Display: WorldPartition initialize took 1.891 ms (total: 1.48 sec)
+[2025.08.17-13.21.01:191][710]LogPlayLevel: PIE: World Init took: (0.005149s)
+[2025.08.17-13.21.01:192][710]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.08.17-13.21.01:194][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.17-13.21.01:194][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.17-13.21.01:194][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.17-13.21.01:194][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.17-13.21.01:194][710]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.17-13.21.01:194][710]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.17-13.21.01:194][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.17-13.21.01:194][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.17-13.21.01:194][710]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.17-13.21.01:194][710]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.17-13.21.01:194][710]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.17-13.21.01:197][710]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.17-13.21.01:243][710]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2025.08.17-13.21.01:244][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.17-13.21.01:244][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.17-13.21.01:244][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.17-13.21.01:245][710]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2025.08.17-13.21.01:245][710]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2025.08.17-13.21.01:250][710]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2025.08.17-13.21.01:250][710]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2025.08.17-13.21.01:250][710]LogInit: FAudioDevice initialized with ID 35.
+[2025.08.17-13.21.01:250][710]LogAudio: Display: Audio Device (ID: 35) registered with world 'NewMap'.
+[2025.08.17-13.21.01:250][710]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2025.08.17-13.21.01:410][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-13.21.01:411][710]LogLoad: Game class is 'myGameMode_C'
+[2025.08.17-13.21.01:412][710]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.08.17-23.21.01
+[2025.08.17-13.21.01:412][710]LogWorld: Bringing up level for play took: 0.001834
+[2025.08.17-13.21.01:418][710]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2025.08.17-13.21.01:422][710]LogStreaming: Display: FlushAsyncLoading(1593,1588,1589,1590,1591,1592,1585,1586,1587): 9 QueuedPackages, 0 AsyncPackages
+[2025.08.17-13.21.01:450][710]PIE: Server logged in
+[2025.08.17-13.21.01:453][710]PIE: Play in editor total start time 0.328 seconds.
+[2025.08.17-13.21.09:865][943]LogScript: Warning: Accessed None trying to read property Instigator
+	BP_Base_Pickup_C /Memory/UEDPIE_0_7QSLH1TPPYF8NLCNZ2RUJS0DL.NewMap:PersistentLevel.BP_Base_Pickup_C_UAID_50EBF692FDA7378602_1898608679
+	Function /Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup_C:ExecuteUbergraph_BP_Base_Pickup:01A7
+[2025.08.17-13.21.09:865][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Instigator". Node:  Cast To myPlayerController Graph:  EventGraph Function:  Execute Ubergraph BP Base Pickup Blueprint:  BP_Base_Pickup
+[2025.08.17-13.21.11:899][999]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27458.210938
+[2025.08.17-13.21.12:298][ 11]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.17-13.21.12:299][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27458.578125, Update Interval: 303.545044
+[2025.08.17-13.21.13:876][ 49]LogScript: Warning: Accessed None trying to read property Instigator
+	BP_Base_Pickup_C /Memory/UEDPIE_0_7QSLH1TPPYF8NLCNZ2RUJS0DL.NewMap:PersistentLevel.BP_Base_Pickup_C_UAID_50EBF692FDA7378602_1898608679
+	Function /Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup_C:ExecuteUbergraph_BP_Base_Pickup:01A7
+[2025.08.17-13.21.13:876][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Instigator". Node:  Cast To myPlayerController Graph:  EventGraph Function:  Execute Ubergraph BP Base Pickup Blueprint:  BP_Base_Pickup
+[2025.08.17-13.21.15:531][ 96]LogScript: Warning: Accessed None trying to read property Instigator
+	BP_Base_Pickup_C /Memory/UEDPIE_0_7QSLH1TPPYF8NLCNZ2RUJS0DL.NewMap:PersistentLevel.BP_Base_Pickup_C_UAID_50EBF692FDA7378602_1898608679
+	Function /Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup_C:ExecuteUbergraph_BP_Base_Pickup:01A7
+[2025.08.17-13.21.15:531][ 96]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Instigator". Node:  Cast To myPlayerController Graph:  EventGraph Function:  Execute Ubergraph BP Base Pickup Blueprint:  BP_Base_Pickup
+[2025.08.17-13.21.18:513][184]LogScript: Warning: Accessed None trying to read property Instigator
+	BP_Base_Pickup_C /Memory/UEDPIE_0_7QSLH1TPPYF8NLCNZ2RUJS0DL.NewMap:PersistentLevel.BP_Base_Pickup_C_UAID_50EBF692FDA7378602_1898608679
+	Function /Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup_C:ExecuteUbergraph_BP_Base_Pickup:01A7
+[2025.08.17-13.21.18:514][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Instigator". Node:  Cast To myPlayerController Graph:  EventGraph Function:  Execute Ubergraph BP Base Pickup Blueprint:  BP_Base_Pickup
+[2025.08.17-13.21.20:112][228]LogScript: Warning: Accessed None trying to read property ShootingSound
+	Player_BP_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.Player_BP_C_0
+	Function /Game/Blueprints/Player_BP.Player_BP_C:ExecuteUbergraph_Player_BP:0ADB
+[2025.08.17-13.21.20:112][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ShootingSound". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph Player BP Blueprint:  Player_BP
+[2025.08.17-13.21.20:875][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.17-13.21.20:875][250]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2025.08.17-13.21.20:876][250]LogSlate: Window 'Prototype_Build Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.17-13.21.20:978][250]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-13.21.20:979][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.21.20:979][250]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_NewMap.NewMap
+[2025.08.17-13.21.20:988][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.17-13.21.20:998][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.21.21:059][250]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.17-13.21.21:059][250]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2025.08.17-13.21.21:059][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.08.17-13.21.21:063][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.08.17-13.21.21:082][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.08.17-13.21.21:578][251]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2025.08.17-13.21.23:754][289]LogSlate: Window 'Message Log' being destroyed
+[2025.08.17-13.21.23:873][289]LogSlate: Window 'Message Log' being destroyed
+[2025.08.17-13.22.05:284][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.08.17-13.22.06:279][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-13.22.06:427][289]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Base_Pickup] ([2] browsable assets)...
+[2025.08.17-13.22.06:514][289]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Base_Pickup.BP_Base_Pickup]
+[2025.08.17-13.22.06:514][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Base_Pickup]
+[2025.08.17-13.22.06:514][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Base_Pickup" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Pickup.uasset" SILENT=true
+[2025.08.17-13.22.06:525][289]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Base_Pickup
+[2025.08.17-13.22.06:525][289]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Base_PickupC90BE09043613FC533CEF8B47A340E28.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Pickup.uasset'
+[2025.08.17-13.22.06:556][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 277.641 ms (total: 17.7 sec)
+[2025.08.17-13.22.06:669][289]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-13.22.06:669][289]LogContentValidation: Enabled validators:
+[2025.08.17-13.22.06:669][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-13.22.06:669][289]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-13.22.06:669][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-13.22.06:669][289]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-13.22.06:669][289]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-13.22.06:669][289]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-13.22.06:669][289]AssetCheck: /Game/Blueprints/BP_Base_Pickup Validating asset
+[2025.08.17-13.22.13:243][639]Cmd: DELETE
+[2025.08.17-13.22.13:244][639]Cmd: ACTOR DELETE
+[2025.08.17-13.22.13:278][639]LogEditorActor: Deleted Actor: BP_Pickup_BasicHealth_C
+[2025.08.17-13.22.13:320][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.08.17-13.22.13:327][639]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2025.08.17-13.22.14:193][683]Cmd: DELETE
+[2025.08.17-13.22.14:193][683]Cmd: ACTOR DELETE
+[2025.08.17-13.22.14:195][683]LogEditorActor: Deleted Actor: BP_Pickup_BonusHealth_C
+[2025.08.17-13.22.14:231][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.08.17-13.22.14:236][683]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2025.08.17-13.22.21:298][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.08.17-13.22.27:727][995]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.17-13.22.28:057][995]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.17-13.22.28:058][995]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-13.22.28:058][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.22.28:301][995]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-13.22.28:301][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.22.28:735][995]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.17-13.22.28:735][995]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-13.22.28:735][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.22.29:101][995]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-13.22.29:101][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.22.29:118][995]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-13.22.29:118][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-13.22.29:203][995]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/BP_Pickup_BonusHealth.BP_Pickup_BonusHealth
+	Asset Type: Blueprint
+[2025.08.17-13.22.29:722][995]LogWorldPartition: Actor /Game/Maps/NewMap.NewMap:PersistentLevel.BP_Pickup_BasicHealth_C_UAID_50EBF692FDA73A8602_1271680208 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/NewMap/B/4X/L3NL3XR4SS1Z1O21QSNNP7.PackageMetaData in its package
+[2025.08.17-13.22.29:728][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.08.17-13.22.29:836][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.08.17-13.22.29:858][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.08.17-13.22.29:880][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.08.17-13.22.29:906][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.08.17-13.22.32:681][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.08.17-13.22.33:843][118]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.17-13.22.34:050][118]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/BP_Pickup_BasicHealth.BP_Pickup_BasicHealth
+	Asset Type: Blueprint
+[2025.08.17-13.22.34:468][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.08.17-13.22.34:588][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.08.17-13.22.34:622][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.08.17-13.22.34:657][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.08.17-13.22.45:241][633]LogContentBrowser: Attempting asset rename: BP_Base_Pickup -> BP_Health_Pickup
+[2025.08.17-13.22.45:402][633]LogMetaData: Removing '/Game/Blueprints/BP_Health_Pickup.BP_Health_Pickup_C' ref from Metadata '/Game/Blueprints/BP_Base_Pickup.PackageMetaData'
+[2025.08.17-13.22.45:402][633]LogMetaData: Removing '/Game/Blueprints/BP_Health_Pickup.SKEL_BP_Health_Pickup_C' ref from Metadata '/Game/Blueprints/BP_Base_Pickup.PackageMetaData'
+[2025.08.17-13.22.45:402][633]LogMetaData: Removing '/Game/Blueprints/BP_Health_Pickup.BP_Health_Pickup:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Base_Pickup.PackageMetaData'
+[2025.08.17-13.22.45:402][633]LogMetaData: Removing '/Game/Blueprints/BP_Health_Pickup.BP_Health_Pickup_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_Base_Pickup.PackageMetaData'
+[2025.08.17-13.22.45:402][633]LogMetaData: Removing '/Game/Blueprints/BP_Health_Pickup.SKEL_BP_Health_Pickup_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Base_Pickup.PackageMetaData'
+[2025.08.17-13.22.45:402][633]LogMetaData: Removing '/Game/Blueprints/BP_Health_Pickup.SKEL_BP_Health_Pickup_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_Base_Pickup.PackageMetaData'
+[2025.08.17-13.22.45:444][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-13.22.45:444][633]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Health_Pickup] ([2] browsable assets)...
+[2025.08.17-13.22.45:444][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Health_Pickup]
+[2025.08.17-13.22.45:444][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Health_Pickup" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Health_Pickup.uasset" SILENT=true
+[2025.08.17-13.22.45:450][633]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Health_Pickup
+[2025.08.17-13.22.45:450][633]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Health_PickupB65F1D5045700F437A53B8BE3B0C60C8.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Health_Pickup.uasset'
+[2025.08.17-13.22.45:457][633]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Base_Pickup] ([5] browsable assets)...
+[2025.08.17-13.22.45:457][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Base_Pickup]
+[2025.08.17-13.22.45:457][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Base_Pickup" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Pickup.uasset" SILENT=true
+[2025.08.17-13.22.45:458][633]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Base_Pickup
+[2025.08.17-13.22.45:459][633]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Base_PickupAE15028F40593DDFB1F68FB8FAA12AA3.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Base_Pickup.uasset'
+[2025.08.17-13.22.45:462][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.229 ms (total: 17.7 sec)
+[2025.08.17-13.22.45:580][633]LogContentValidation: Display: Starting to validate 4 assets
+[2025.08.17-13.22.45:580][633]LogContentValidation: Enabled validators:
+[2025.08.17-13.22.45:580][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-13.22.45:580][633]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-13.22.45:580][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-13.22.45:580][633]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-13.22.45:580][633]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-13.22.45:580][633]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-13.22.45:580][633]AssetCheck: /Game/Blueprints/BP_Health_Pickup Validating asset
+[2025.08.17-13.22.45:580][633]AssetCheck: /Game/Blueprints/BP_Base_Pickup Validating asset
+[2025.08.17-13.22.45:580][633]AssetCheck: /Game/Blueprints/BP_Base_Pickup Validating asset
+[2025.08.17-13.22.45:580][633]AssetCheck: /Game/Blueprints/BP_Base_Pickup Validating asset
+[2025.08.17-13.22.45:642][633]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2025.08.17-13.22.48:111][756]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Health_Pickup.BP_Health_Pickup
+[2025.08.17-13.22.48:111][756]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2025.08.17-13.22.51:299][825]LogSlate: Window 'BP_Health_Pickup' being destroyed
+[2025.08.17-13.23.02:260][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-13.23.02:400][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Health_Pickup] ([2] browsable assets)...
+[2025.08.17-13.23.02:400][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Health_Pickup]
+[2025.08.17-13.23.02:400][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Health_Pickup" FILE="../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Health_Pickup.uasset" SILENT=true
+[2025.08.17-13.23.02:408][292]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Health_Pickup
+[2025.08.17-13.23.02:409][292]LogSavePackage: Moving '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Saved/BP_Health_PickupDA76FC4040BC262AC10498A9AE439917.tmp' to '../../../../../OneDrive/Documents/Unreal Projects/test/Prototype_Build/Content/Blueprints/BP_Health_Pickup.uasset'
+[2025.08.17-13.23.02:459][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.052 ms (total: 17.9 sec)
+[2025.08.17-13.23.02:578][292]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-13.23.02:578][292]LogContentValidation: Enabled validators:
+[2025.08.17-13.23.02:578][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-13.23.02:578][292]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-13.23.02:578][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-13.23.02:578][292]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-13.23.02:578][292]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-13.23.02:578][292]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-13.23.02:578][292]AssetCheck: /Game/Blueprints/BP_Health_Pickup Validating asset
+[2025.08.17-13.23.32:590][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.17-13.23.32:597][646]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/NewMap' took 0.083
